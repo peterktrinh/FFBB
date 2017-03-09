@@ -1,2 +1,2 @@
 # FFBB
-# contains fantasy basketball data, rulebook, and statisticsy
+# contains fantasy basketball data, rulebook, and statistics
