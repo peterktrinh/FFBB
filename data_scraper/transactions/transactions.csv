@@ -1,0 +1,590 @@
+date,first_name,last_name,position,team,team_key,timestamp,type
+2017-03-08,Sean,Kilpatrick,"PG,SG",Adam Silver,364.l.8091.t.1,"Wed, 08 Mar 2017 04:23:06",add
+2017-03-08,Richaun,Holmes,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Wed, 08 Mar 2017 03:53:10",drop
+2017-03-07,Bojan,Bogdanovic,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 07 Mar 2017 05:11:31",add
+2017-03-07,Tony,Allen,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 07 Mar 2017 05:11:31",drop
+2017-03-06,Tyler,Ulis,PG,D-League All-Stars,364.l.8091.t.5,"Mon, 06 Mar 2017 01:05:23",add
+2017-03-06,Spencer,Dinwiddie,PG,D-League All-Stars,364.l.8091.t.5,"Mon, 06 Mar 2017 01:05:23",drop
+2017-03-05,Terrence,Ross,"SG,SF",#Hwaiting,364.l.8091.t.2,"Sun, 05 Mar 2017 08:38:45",add
+2017-03-05,Thabo,Sefolosha,"SG,SF",#Hwaiting,364.l.8091.t.2,"Sun, 05 Mar 2017 08:38:45",drop
+2017-03-03,Alan,Williams,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Fri, 03 Mar 2017 04:38:22",add
+2017-03-03,Richaun,Holmes,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Fri, 03 Mar 2017 04:37:43",add
+2017-03-03,Terrence,Ross,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Fri, 03 Mar 2017 04:37:43",drop
+2017-03-02,Andre,Iguodala,"SG,SF",Forgot About Dray,364.l.8091.t.3,"Thu, 02 Mar 2017 02:17:26",add
+2017-03-02,P.J.,Tucker,"SG,SF",Forgot About Dray,364.l.8091.t.3,"Thu, 02 Mar 2017 02:17:26",drop
+2017-03-02,Spencer,Dinwiddie,PG,D-League All-Stars,364.l.8091.t.5,"Thu, 02 Mar 2017 00:47:06",add
+2017-03-02,Rodney,Hood,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Thu, 02 Mar 2017 00:47:06",drop
+2017-03-01,Rodney,Hood,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Wed, 01 Mar 2017 06:35:34",add
+2017-03-01,Josh,Richardson,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Wed, 01 Mar 2017 06:35:34",drop
+2017-03-01,Denzel,Valentine,SF,#Hwaiting,364.l.8091.t.2,"Wed, 01 Mar 2017 02:50:41",drop
+2017-02-27,Delon,Wright,"PG,SG",Trinh,364.l.8091.t.10,"Mon, 27 Feb 2017 21:47:12",add
+2017-02-26,Cory,Joseph,PG,D-League All-Stars,364.l.8091.t.5,"Sun, 26 Feb 2017 03:40:15",add
+2017-02-26,Tim,Frazier,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Sun, 26 Feb 2017 03:40:15",drop
+2017-02-26,J.J.,Barea,"PG,SG",Forgot About Dray,364.l.8091.t.3,"Sun, 26 Feb 2017 03:35:01",drop
+2017-02-25,Denzel,Valentine,SF,#Hwaiting,364.l.8091.t.2,"Sat, 25 Feb 2017 07:49:39",add
+2017-02-25,Tyson,Chandler,C,#Hwaiting,364.l.8091.t.2,"Sat, 25 Feb 2017 07:49:39",drop
+2017-02-25,Bobby,Portis,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 25 Feb 2017 05:13:37",drop
+2017-02-25,Ish,Smith,PG,One for the Mainland,364.l.8091.t.7,"Sat, 25 Feb 2017 04:25:11",add
+2017-02-25,Bojan,Bogdanovic,"SG,SF",One for the Mainland,364.l.8091.t.7,"Sat, 25 Feb 2017 04:25:11",drop
+2017-02-25,Marquese,Chriss,PF,Valar Moredunkis,364.l.8091.t.12,"Sat, 25 Feb 2017 03:25:41",add
+2017-02-25,Cody,Zeller,"PF,C",Valar Moredunkis,364.l.8091.t.12,"Sat, 25 Feb 2017 03:25:41",drop
+2017-02-24,Tyreke,Evans,"PG,SG,SF",Cool Cats,364.l.8091.t.4,"Fri, 24 Feb 2017 15:50:32",add
+2017-02-24,Rodney,Hood,"SG,SF",Cool Cats,364.l.8091.t.4,"Fri, 24 Feb 2017 15:50:32",drop
+2017-02-24,Buddy,Hield,SG,Adam Silver,364.l.8091.t.1,"Fri, 24 Feb 2017 02:27:52",add
+2017-02-24,C.J.,Miles,"SG,SF",Adam Silver,364.l.8091.t.1,"Fri, 24 Feb 2017 02:27:52",drop
+2017-02-24,Channing,Frye,"PF,C",Adam Silver,364.l.8091.t.1,"Fri, 24 Feb 2017 02:24:09",drop
+2017-02-24,Bobby,Portis,"PF,C",Stream Team,364.l.8091.t.9,"Fri, 24 Feb 2017 02:11:54",add
+2017-02-24,Brandon,Knight,"PG,SG",Stream Team,364.l.8091.t.9,"Fri, 24 Feb 2017 02:11:54",drop
+2017-02-23,T.J.,Warren,SF,D-League All-Stars,364.l.8091.t.5,"Thu, 23 Feb 2017 20:06:16",add
+2017-02-23,Jon,Leuer,"PF,C",D-League All-Stars,364.l.8091.t.5,"Thu, 23 Feb 2017 20:06:16",drop
+2017-02-23,Jamal,Murray,"PG,SG",Adam Silver,364.l.8091.t.1,"Thu, 23 Feb 2017 18:00:31",add
+2017-02-23,Ersan,Ilyasova,"SF,PF",Adam Silver,364.l.8091.t.1,"Thu, 23 Feb 2017 18:00:31",drop
+2017-02-23,Jon,Leuer,"PF,C",D-League All-Stars,364.l.8091.t.5,"Thu, 23 Feb 2017 06:48:06",add
+2017-02-23,Matt,Barnes,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Thu, 23 Feb 2017 06:48:06",drop
+2017-02-22,Jameer,Nelson,PG,One for the Mainland,364.l.8091.t.7,"Wed, 22 Feb 2017 23:00:23",add
+2017-02-22,David,Lee,"PF,C",One for the Mainland,364.l.8091.t.7,"Wed, 22 Feb 2017 23:00:23",drop
+2017-02-20,Terrence,Ross,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 20 Feb 2017 20:21:55",add
+2017-02-20,Terrence,Jones,"SF,PF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 20 Feb 2017 20:21:55",drop
+2017-02-20,Zach,LaVine,"PG,SG",Boomshakalaka,364.l.8091.t.14,"Mon, 20 Feb 2017 08:22:11",add
+2017-02-20,Deron,Williams,PG,Boomshakalaka,364.l.8091.t.14,"Mon, 20 Feb 2017 08:22:11",drop
+2017-02-20,Willie,Cauley-Stein,"PF,C",Stream Team,364.l.8091.t.9,"Mon, 20 Feb 2017 05:11:41",add
+2017-02-20,Thon,Maker,"PF,C",Stream Team,364.l.8091.t.9,"Mon, 20 Feb 2017 05:11:41",drop
+2017-02-20,Tim,Frazier,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Mon, 20 Feb 2017 04:51:58",add
+2017-02-20,Jameer,Nelson,PG,D-League All-Stars,364.l.8091.t.5,"Mon, 20 Feb 2017 04:51:58",drop
+2017-02-17,Thon,Maker,"PF,C",Stream Team,364.l.8091.t.9,"Fri, 17 Feb 2017 16:34:20",add
+2017-02-17,Monta,Ellis,"PG,SG",Stream Team,364.l.8091.t.9,"Fri, 17 Feb 2017 16:31:19",add
+2017-02-17,Zach,LaVine,"PG,SG",So Kawhi 。◕ ‿ ◕。,364.l.8091.t.8,"Fri, 17 Feb 2017 10:52:51",drop
+2017-02-16,Norman,Powell,"SG,SF",Valar Moredunkis,364.l.8091.t.12,"Thu, 16 Feb 2017 20:49:26",add
+2017-02-16,Jamal,Crawford,"SG,SF",Valar Moredunkis,364.l.8091.t.12,"Thu, 16 Feb 2017 20:49:26",drop
+2017-02-15,Jameer,Nelson,PG,D-League All-Stars,364.l.8091.t.5,"Wed, 15 Feb 2017 20:08:43",add
+2017-02-15,Jon,Leuer,"PF,C",D-League All-Stars,364.l.8091.t.5,"Wed, 15 Feb 2017 20:08:43",drop
+2017-02-14,Channing,Frye,"PF,C",Adam Silver,364.l.8091.t.1,"Tue, 14 Feb 2017 17:15:44",add
+2017-02-14,Austin,Rivers,"PG,SG,SF",Adam Silver,364.l.8091.t.1,"Tue, 14 Feb 2017 17:15:44",drop
+2017-02-14,Michael,Beasley,"SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Tue, 14 Feb 2017 16:37:23",add
+2017-02-14,Reggie,Jackson,"PG,SG",Boomshakalaka,364.l.8091.t.14,"Tue, 14 Feb 2017 08:34:32",add
+2017-02-14,Brandon,Ingram,"SG,SF",Boomshakalaka,364.l.8091.t.14,"Tue, 14 Feb 2017 08:34:32",drop
+2017-02-12,Jusuf,Nurkic,C,Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 12 Feb 2017 18:48:20",add
+2017-02-12,T.J.,Warren,SF,Stream Team,364.l.8091.t.9,"Sun, 12 Feb 2017 08:22:31",drop
+2017-02-12,Jahlil,Okafor,C,Trinh,364.l.8091.t.10,"Sun, 12 Feb 2017 05:09:57",add
+2017-02-12,Reggie,Jackson,"PG,SG",Trinh,364.l.8091.t.10,"Sun, 12 Feb 2017 05:09:57",drop
+2017-02-09,Bojan,Bogdanovic,"SG,SF",One for the Mainland,364.l.8091.t.7,"Thu, 09 Feb 2017 21:02:17",add
+2017-02-08,Bismack,Biyombo,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Wed, 08 Feb 2017 19:00:57",drop
+2017-02-08,Maurice,Harkless,SF,Stream Team,364.l.8091.t.9,"Wed, 08 Feb 2017 05:36:28",add
+2017-02-08,Emmanuel,Mudiay,PG,Stream Team,364.l.8091.t.9,"Wed, 08 Feb 2017 05:36:28",drop
+2017-02-08,Tony,Allen,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Wed, 08 Feb 2017 03:30:44",add
+2017-02-08,Dwight,Powell,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Wed, 08 Feb 2017 03:30:44",drop
+2017-02-07,Shabazz,Muhammad,"SG,SF",Valar Moredunkis,364.l.8091.t.12,"Tue, 07 Feb 2017 23:06:24",drop
+2017-02-07,Dwight,Powell,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 07 Feb 2017 07:59:21",add
+2017-02-07,Terrence,Ross,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 07 Feb 2017 07:59:21",drop
+2017-02-07,Jamal,Crawford,"SG,SF",Valar Moredunkis,364.l.8091.t.12,"Tue, 07 Feb 2017 06:40:52",add
+2017-02-07,Tyreke,Evans,"PG,SG,SF",Valar Moredunkis,364.l.8091.t.12,"Tue, 07 Feb 2017 06:40:52",drop
+2017-02-07,Brandon,Ingram,"SG,SF",Boomshakalaka,364.l.8091.t.14,"Tue, 07 Feb 2017 06:15:36",add
+2017-02-07,Chandler,Parsons,"SF,PF",Boomshakalaka,364.l.8091.t.14,"Tue, 07 Feb 2017 06:15:36",drop
+2017-02-07,T.J.,Warren,SF,Stream Team,364.l.8091.t.9,"Tue, 07 Feb 2017 01:34:33",add
+2017-02-07,Evan,Turner,"SG,SF",Stream Team,364.l.8091.t.9,"Tue, 07 Feb 2017 01:34:33",drop
+2017-02-06,Frank,Kaminsky,"PF,C",Adam Silver,364.l.8091.t.1,"Mon, 06 Feb 2017 17:57:20",add
+2017-02-06,Matt,Barnes,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Mon, 06 Feb 2017 00:22:55",add
+2017-02-06,Kelly,Olynyk,C,D-League All-Stars,364.l.8091.t.5,"Mon, 06 Feb 2017 00:22:55",drop
+2017-02-05,Evan,Turner,"SG,SF",Stream Team,364.l.8091.t.9,"Sun, 05 Feb 2017 07:59:40",add
+2017-02-05,Tony,Allen,"SG,SF",Stream Team,364.l.8091.t.9,"Sun, 05 Feb 2017 07:59:40",drop
+2017-02-05,Kelly,Olynyk,C,D-League All-Stars,364.l.8091.t.5,"Sun, 05 Feb 2017 00:22:53",add
+2017-02-05,Bojan,Bogdanovic,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sun, 05 Feb 2017 00:22:53",drop
+2017-02-05,Shabazz,Muhammad,"SG,SF",Valar Moredunkis,364.l.8091.t.12,"Sun, 05 Feb 2017 00:05:53",add
+2017-02-05,JaVale,McGee,C,Valar Moredunkis,364.l.8091.t.12,"Sun, 05 Feb 2017 00:05:53",drop
+2017-02-04,JaVale,McGee,C,Valar Moredunkis,364.l.8091.t.12,"Sat, 04 Feb 2017 07:44:03",add
+2017-02-04,Luol,Deng,"SF,PF",Valar Moredunkis,364.l.8091.t.12,"Sat, 04 Feb 2017 07:44:03",drop
+2017-02-04,Yogi,Ferrell,PG,D-League All-Stars,364.l.8091.t.5,"Sat, 04 Feb 2017 06:17:36",add
+2017-02-04,Matthew,Dellavedova,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Sat, 04 Feb 2017 06:17:36",drop
+2017-02-04,Maurice,Harkless,SF,Adam Silver,364.l.8091.t.1,"Sat, 04 Feb 2017 04:11:01",drop
+2017-02-03,Luol,Deng,"SF,PF",Valar Moredunkis,364.l.8091.t.12,"Fri, 03 Feb 2017 06:11:17",add
+2017-02-03,Raymond,Felton,"PG,SG",Valar Moredunkis,364.l.8091.t.12,"Fri, 03 Feb 2017 06:11:17",drop
+2017-02-03,Bojan,Bogdanovic,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Fri, 03 Feb 2017 02:17:55",add
+2017-02-03,Brandon,Jennings,PG,D-League All-Stars,364.l.8091.t.5,"Fri, 03 Feb 2017 02:17:55",drop
+2017-02-02,Willy,Hernangomez,C,Stream Team,364.l.8091.t.9,"Thu, 02 Feb 2017 04:37:27",add
+2017-02-02,T.J.,Warren,SF,Stream Team,364.l.8091.t.9,"Thu, 02 Feb 2017 04:37:27",drop
+2017-02-02,Emmanuel,Mudiay,PG,Stream Team,364.l.8091.t.9,"Thu, 02 Feb 2017 04:37:12",add
+2017-02-02,Jameer,Nelson,PG,Stream Team,364.l.8091.t.9,"Thu, 02 Feb 2017 04:37:12",drop
+2017-02-01,Bismack,Biyombo,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Wed, 01 Feb 2017 21:25:59",add
+2017-02-01,Garrett,Temple,"PG,SG",Harry B's Hairy Bees,364.l.8091.t.13,"Wed, 01 Feb 2017 21:25:59",drop
+2017-02-01,Matthew,Dellavedova,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Wed, 01 Feb 2017 03:47:04",add
+2017-02-01,Ty,Lawson,PG,D-League All-Stars,364.l.8091.t.5,"Wed, 01 Feb 2017 03:47:04",drop
+2017-01-30,Brandon,Jennings,PG,D-League All-Stars,364.l.8091.t.5,"Mon, 30 Jan 2017 09:43:52",add
+2017-01-30,Andre,Iguodala,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Mon, 30 Jan 2017 09:43:52",drop
+2017-01-30,Raymond,Felton,"PG,SG",Valar Moredunkis,364.l.8091.t.12,"Mon, 30 Jan 2017 09:01:01",add
+2017-01-30,Kyle,Anderson,"SG,SF",Valar Moredunkis,364.l.8091.t.12,"Mon, 30 Jan 2017 09:01:01",drop
+2017-01-30,Marvin,Williams,"SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Mon, 30 Jan 2017 08:27:38",add
+2017-01-30,Brandon,Ingram,"SG,SF",Icin On The Beefcake,364.l.8091.t.11,"Mon, 30 Jan 2017 08:27:38",drop
+2017-01-30,Terrence,Ross,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 30 Jan 2017 01:39:04",add
+2017-01-30,Dejounte,Murray,PG,Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 30 Jan 2017 01:39:04",drop
+2017-01-29,Zaza,Pachulia,C,Stream Team,364.l.8091.t.9,"Sun, 29 Jan 2017 21:26:25",drop
+2017-01-29,Kyle,Anderson,"SG,SF",Valar Moredunkis,364.l.8091.t.12,"Sun, 29 Jan 2017 06:23:34",add
+2017-01-29,Darrell,Arthur,"PF,C",Valar Moredunkis,364.l.8091.t.12,"Sun, 29 Jan 2017 06:23:34",drop
+2017-01-29,Andre,Iguodala,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sun, 29 Jan 2017 04:47:45",add
+2017-01-29,Bojan,Bogdanovic,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sun, 29 Jan 2017 04:47:45",drop
+2017-01-28,Lucas,Nogueira,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 28 Jan 2017 02:49:51",add
+2017-01-28,Willy,Hernangomez,C,Stream Team,364.l.8091.t.9,"Sat, 28 Jan 2017 02:49:51",drop
+2017-01-28,Dario,Saric,"SF,PF",Cool Cats,364.l.8091.t.4,"Sat, 28 Jan 2017 01:47:10",add
+2017-01-28,Bojan,Bogdanovic,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sat, 28 Jan 2017 01:33:38",add
+2017-01-28,Matthew,Dellavedova,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Sat, 28 Jan 2017 01:33:38",drop
+2017-01-27,Rodney,Hood,"SG,SF",Cool Cats,364.l.8091.t.4,"Fri, 27 Jan 2017 08:22:40",add
+2017-01-27,Marvin,Williams,"SF,PF",Cool Cats,364.l.8091.t.4,"Fri, 27 Jan 2017 08:22:40",drop
+2017-01-27,Ivica,Zubac,C,Stream Team,364.l.8091.t.9,"Fri, 27 Jan 2017 04:24:42",add
+2017-01-27,Joe,Ingles,"SG,SF",Stream Team,364.l.8091.t.9,"Fri, 27 Jan 2017 04:24:42",drop
+2017-01-26,Willy,Hernangomez,C,Stream Team,364.l.8091.t.9,"Thu, 26 Jan 2017 20:13:43",add
+2017-01-26,Kelly,Olynyk,C,Stream Team,364.l.8091.t.9,"Thu, 26 Jan 2017 20:13:43",drop
+2017-01-26,Darrell,Arthur,"PF,C",Valar Moredunkis,364.l.8091.t.12,"Thu, 26 Jan 2017 05:36:05",add
+2017-01-26,Nikola,Mirotic,"SF,PF",Valar Moredunkis,364.l.8091.t.12,"Thu, 26 Jan 2017 05:36:05",drop
+2017-01-25,Tony,Allen,"SG,SF",Stream Team,364.l.8091.t.9,"Wed, 25 Jan 2017 05:53:43",add
+2017-01-25,Rodney,Hood,"SG,SF",Stream Team,364.l.8091.t.9,"Wed, 25 Jan 2017 05:53:43",drop
+2017-01-25,Darren,Collison,"PG,SG",Jimmy & Jimmy Co.,364.l.8091.t.6,"Wed, 25 Jan 2017 05:13:54",add
+2017-01-25,Jeff,Green,"SG,SF,PF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Wed, 25 Jan 2017 05:13:54",drop
+2017-01-25,Matthew,Dellavedova,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Wed, 25 Jan 2017 01:42:06",add
+2017-01-25,Raymond,Felton,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Wed, 25 Jan 2017 01:42:06",drop
+2017-01-25,JaMychal,Green,PF,Icin On The Beefcake,364.l.8091.t.11,"Wed, 25 Jan 2017 01:39:18",add
+2017-01-25,Marreese,Speights,"PF,C",Icin On The Beefcake,364.l.8091.t.11,"Wed, 25 Jan 2017 01:39:18",drop
+2017-01-24,Montrezl,Harrell,"PF,C",Trinh,364.l.8091.t.10,"Tue, 24 Jan 2017 12:08:12",drop
+2017-01-24,Kelly,Olynyk,C,Stream Team,364.l.8091.t.9,"Tue, 24 Jan 2017 04:22:15",add
+2017-01-24,Bojan,Bogdanovic,"SG,SF",Stream Team,364.l.8091.t.9,"Tue, 24 Jan 2017 04:22:15",drop
+2017-01-24,P.J.,Tucker,"SG,SF",Forgot About Dray,364.l.8091.t.3,"Tue, 24 Jan 2017 00:40:08",add
+2017-01-23,Dejounte,Murray,PG,Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 23 Jan 2017 16:56:32",add
+2017-01-23,Terrence,Ross,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 23 Jan 2017 16:56:32",drop
+2017-01-23,Bojan,Bogdanovic,"SG,SF",Stream Team,364.l.8091.t.9,"Mon, 23 Jan 2017 03:31:03",add
+2017-01-23,Bismack,Biyombo,"PF,C",Stream Team,364.l.8091.t.9,"Mon, 23 Jan 2017 03:31:03",drop
+2017-01-22,Ty,Lawson,PG,D-League All-Stars,364.l.8091.t.5,"Sun, 22 Jan 2017 22:30:57",add
+2017-01-22,Josh,Richardson,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sun, 22 Jan 2017 22:30:18",add
+2017-01-22,Andre,Iguodala,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sun, 22 Jan 2017 22:30:18",drop
+2017-01-22,Jameer,Nelson,PG,Stream Team,364.l.8091.t.9,"Sun, 22 Jan 2017 05:11:58",add
+2017-01-22,Emmanuel,Mudiay,PG,Stream Team,364.l.8091.t.9,"Sun, 22 Jan 2017 05:11:58",drop
+2017-01-22,Andre,Iguodala,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sun, 22 Jan 2017 04:03:22",add
+2017-01-22,Darren,Collison,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Sun, 22 Jan 2017 04:03:22",drop
+2017-01-22,JaMychal,Green,PF,D-League All-Stars,364.l.8091.t.5,"Sun, 22 Jan 2017 03:59:56",drop
+2017-01-22,Zaza,Pachulia,C,Stream Team,364.l.8091.t.9,"Sun, 22 Jan 2017 03:48:59",add
+2017-01-22,Dario,Saric,"SF,PF",Stream Team,364.l.8091.t.9,"Sun, 22 Jan 2017 03:48:59",drop
+2017-01-22,Jeff,Green,"SG,SF,PF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 22 Jan 2017 03:32:29",add
+2017-01-22,Tony,Allen,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 22 Jan 2017 03:32:29",drop
+2017-01-22,Iman,Shumpert,"SG,SF",Icin On The Beefcake,364.l.8091.t.11,"Sun, 22 Jan 2017 03:27:25",add
+2017-01-22,Michael,Carter-Williams,PG,Icin On The Beefcake,364.l.8091.t.11,"Sun, 22 Jan 2017 03:27:25",drop
+2017-01-21,Bismack,Biyombo,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 21 Jan 2017 08:42:16",add
+2017-01-21,Dewayne,Dedmon,C,Stream Team,364.l.8091.t.9,"Sat, 21 Jan 2017 08:42:16",drop
+2017-01-21,Dewayne,Dedmon,C,Stream Team,364.l.8091.t.9,"Sat, 21 Jan 2017 07:14:54",add
+2017-01-21,Lucas,Nogueira,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 21 Jan 2017 07:14:54",drop
+2017-01-21,Dion,Waiters,"SG,SF",Icin On The Beefcake,364.l.8091.t.11,"Sat, 21 Jan 2017 02:59:50",add
+2017-01-21,Allen,Crabbe,"PG,SG",Icin On The Beefcake,364.l.8091.t.11,"Sat, 21 Jan 2017 02:59:50",drop
+2017-01-20,Garrett,Temple,"PG,SG",Harry B's Hairy Bees,364.l.8091.t.13,"Fri, 20 Jan 2017 04:30:24",add
+2017-01-20,David,Lee,"PF,C",One for the Mainland,364.l.8091.t.7,"Fri, 20 Jan 2017 03:44:46",add
+2017-01-20,Mindaugas,Kuzminskas,"SF,PF",One for the Mainland,364.l.8091.t.7,"Fri, 20 Jan 2017 03:44:46",drop
+2017-01-20,Terrence,Ross,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Fri, 20 Jan 2017 02:42:02",add
+2017-01-20,Alex,Len,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Fri, 20 Jan 2017 02:42:02",drop
+2017-01-19,T.J.,McConnell,PG,Stream Team,364.l.8091.t.9,"Thu, 19 Jan 2017 09:16:33",add
+2017-01-19,P.J.,Tucker,"SG,SF",Stream Team,364.l.8091.t.9,"Thu, 19 Jan 2017 09:16:33",drop
+2017-01-19,P.J.,Tucker,"SG,SF",Stream Team,364.l.8091.t.9,"Thu, 19 Jan 2017 07:00:48",add
+2017-01-19,Malcolm,Delaney,SG,Stream Team,364.l.8091.t.9,"Thu, 19 Jan 2017 07:00:48",drop
+2017-01-19,JaMychal,Green,PF,D-League All-Stars,364.l.8091.t.5,"Thu, 19 Jan 2017 06:00:34",add
+2017-01-19,Kelly,Olynyk,C,D-League All-Stars,364.l.8091.t.5,"Thu, 19 Jan 2017 06:00:34",drop
+2017-01-19,Mindaugas,Kuzminskas,"SF,PF",One for the Mainland,364.l.8091.t.7,"Thu, 19 Jan 2017 06:00:29",add
+2017-01-19,Rudy,Gay,"SF,PF",One for the Mainland,364.l.8091.t.7,"Thu, 19 Jan 2017 06:00:29",drop
+2017-01-19,Rondae,Hollis-Jefferson,"SG,SF,PF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Thu, 19 Jan 2017 03:34:10",add
+2017-01-19,Joakim,Noah,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Thu, 19 Jan 2017 03:34:10",drop
+2017-01-18,Dario,Saric,"SF,PF",Stream Team,364.l.8091.t.9,"Wed, 18 Jan 2017 06:13:28",add
+2017-01-18,Marquese,Chriss,PF,Stream Team,364.l.8091.t.9,"Wed, 18 Jan 2017 06:13:28",drop
+2017-01-18,Raymond,Felton,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Wed, 18 Jan 2017 01:00:32",add
+2017-01-18,Sergio,Rodriguez,PG,D-League All-Stars,364.l.8091.t.5,"Wed, 18 Jan 2017 01:00:32",drop
+2017-01-18,Austin,Rivers,"PG,SG,SF",Adam Silver,364.l.8091.t.1,"Wed, 18 Jan 2017 00:18:28",add
+2017-01-18,Jodie,Meeks,SG,Adam Silver,364.l.8091.t.1,"Wed, 18 Jan 2017 00:18:28",drop
+2017-01-17,Kelly,Olynyk,C,D-League All-Stars,364.l.8091.t.5,"Tue, 17 Jan 2017 11:04:17",add
+2017-01-17,Bojan,Bogdanovic,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Tue, 17 Jan 2017 11:04:17",drop
+2017-01-17,Jodie,Meeks,SG,Adam Silver,364.l.8091.t.1,"Tue, 17 Jan 2017 03:18:23",add
+2017-01-17,Joe,Ingles,"SG,SF",Stream Team,364.l.8091.t.9,"Tue, 17 Jan 2017 01:30:39",add
+2017-01-16,Sergio,Rodriguez,PG,D-League All-Stars,364.l.8091.t.5,"Mon, 16 Jan 2017 22:36:09",add
+2017-01-16,T.J.,McConnell,PG,D-League All-Stars,364.l.8091.t.5,"Mon, 16 Jan 2017 22:36:09",drop
+2017-01-16,Malcolm,Delaney,SG,Stream Team,364.l.8091.t.9,"Mon, 16 Jan 2017 07:52:31",add
+2017-01-16,Luol,Deng,"SF,PF",Stream Team,364.l.8091.t.9,"Mon, 16 Jan 2017 07:52:31",drop
+2017-01-16,Terrence,Jones,"SF,PF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 16 Jan 2017 06:02:24",add
+2017-01-16,Sean,Kilpatrick,"PG,SG",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 16 Jan 2017 06:02:24",drop
+2017-01-16,Emmanuel,Mudiay,PG,Stream Team,364.l.8091.t.9,"Mon, 16 Jan 2017 05:54:37",add
+2017-01-16,Kyle,O'Quinn,"PF,C",Stream Team,364.l.8091.t.9,"Mon, 16 Jan 2017 05:54:37",drop
+2017-01-15,Sean,Kilpatrick,"PG,SG",Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 15 Jan 2017 03:49:52",add
+2017-01-15,Patty,Mills,PG,Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 15 Jan 2017 03:49:52",drop
+2017-01-15,Kyle,O'Quinn,"PF,C",Stream Team,364.l.8091.t.9,"Sun, 15 Jan 2017 01:35:21",add
+2017-01-15,Buddy,Hield,SG,Stream Team,364.l.8091.t.9,"Sun, 15 Jan 2017 01:35:21",drop
+2017-01-14,Cody,Zeller,"PF,C",Valar Moredunkis,364.l.8091.t.12,"Sat, 14 Jan 2017 09:56:52",add
+2017-01-14,JaMychal,Green,PF,Valar Moredunkis,364.l.8091.t.12,"Sat, 14 Jan 2017 09:56:52",drop
+2017-01-14,Brandon,Ingram,"SG,SF",Icin On The Beefcake,364.l.8091.t.11,"Sat, 14 Jan 2017 03:44:07",add
+2017-01-14,Rondae,Hollis-Jefferson,"SG,SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Sat, 14 Jan 2017 03:44:07",drop
+2017-01-13,Seth,Curry,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Fri, 13 Jan 2017 20:28:43",add
+2017-01-13,Brandon,Jennings,PG,D-League All-Stars,364.l.8091.t.5,"Fri, 13 Jan 2017 20:28:43",drop
+2017-01-12,Marquese,Chriss,PF,Stream Team,364.l.8091.t.9,"Thu, 12 Jan 2017 06:18:42",add
+2017-01-12,Dario,Saric,"SF,PF",Stream Team,364.l.8091.t.9,"Thu, 12 Jan 2017 06:18:42",drop
+2017-01-12,JaMychal,Green,PF,Valar Moredunkis,364.l.8091.t.12,"Thu, 12 Jan 2017 02:53:03",add
+2017-01-12,Dwight,Powell,"PF,C",Valar Moredunkis,364.l.8091.t.12,"Thu, 12 Jan 2017 02:53:03",drop
+2017-01-11,Buddy,Hield,SG,Stream Team,364.l.8091.t.9,"Wed, 11 Jan 2017 15:05:54",add
+2017-01-11,Ty,Lawson,PG,Stream Team,364.l.8091.t.9,"Wed, 11 Jan 2017 15:05:54",drop
+2017-01-11,Dario,Saric,"SF,PF",Stream Team,364.l.8091.t.9,"Wed, 11 Jan 2017 04:42:14",add
+2017-01-11,Doug,McDermott,SF,Stream Team,364.l.8091.t.9,"Wed, 11 Jan 2017 04:42:14",drop
+2017-01-11,Al-Farouq,Aminu,"SF,PF",D-League All-Stars,364.l.8091.t.5,"Wed, 11 Jan 2017 02:45:34",add
+2017-01-10,Brandon,Jennings,PG,D-League All-Stars,364.l.8091.t.5,"Tue, 10 Jan 2017 10:26:43",add
+2017-01-10,Tony,Parker,PG,D-League All-Stars,364.l.8091.t.5,"Tue, 10 Jan 2017 10:26:43",drop
+2017-01-10,Michael,Kidd-Gilchrist,SF,Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 10 Jan 2017 01:56:17",add
+2017-01-10,Terrence,Ross,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 10 Jan 2017 01:56:17",drop
+2017-01-09,Doug,McDermott,SF,Stream Team,364.l.8091.t.9,"Mon, 09 Jan 2017 07:43:47",add
+2017-01-09,JaMychal,Green,PF,Stream Team,364.l.8091.t.9,"Mon, 09 Jan 2017 07:43:47",drop
+2017-01-09,T.J.,McConnell,PG,D-League All-Stars,364.l.8091.t.5,"Mon, 09 Jan 2017 04:35:38",add
+2017-01-09,P.J.,Tucker,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Mon, 09 Jan 2017 04:35:38",drop
+2017-01-09,Tim,Hardaway Jr.,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Mon, 09 Jan 2017 03:59:50",add
+2017-01-09,Monta,Ellis,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Mon, 09 Jan 2017 03:59:50",drop
+2017-01-08,Lucas,Nogueira,"PF,C",Stream Team,364.l.8091.t.9,"Sun, 08 Jan 2017 05:53:24",add
+2017-01-08,Sean,Kilpatrick,"PG,SG",Stream Team,364.l.8091.t.9,"Sun, 08 Jan 2017 05:53:24",drop
+2017-01-08,Luol,Deng,"SF,PF",Stream Team,364.l.8091.t.9,"Sun, 08 Jan 2017 04:15:57",add
+2017-01-08,Josh,Richardson,"SG,SF",Stream Team,364.l.8091.t.9,"Sun, 08 Jan 2017 04:15:57",drop
+2017-01-08,Ty,Lawson,PG,Stream Team,364.l.8091.t.9,"Sun, 08 Jan 2017 04:14:50",add
+2017-01-08,Buddy,Hield,SG,Stream Team,364.l.8091.t.9,"Sun, 08 Jan 2017 04:14:50",drop
+2017-01-07,Kenneth,Faried,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Sat, 07 Jan 2017 23:31:49",add
+2017-01-07,Seth,Curry,"PG,SG",Harry B's Hairy Bees,364.l.8091.t.13,"Sat, 07 Jan 2017 23:31:49",drop
+2017-01-07,Caris,LeVert,"SG,SF",Valar Moredunkis,364.l.8091.t.12,"Sat, 07 Jan 2017 04:49:14",add
+2017-01-07,Brandon,Ingram,"SG,SF",Valar Moredunkis,364.l.8091.t.12,"Sat, 07 Jan 2017 04:49:14",drop
+2017-01-07,Michael,Carter-Williams,PG,Icin On The Beefcake,364.l.8091.t.11,"Sat, 07 Jan 2017 03:08:30",add
+2017-01-07,Bismack,Biyombo,"PF,C",Icin On The Beefcake,364.l.8091.t.11,"Sat, 07 Jan 2017 03:08:30",drop
+2017-01-07,Tony,Parker,PG,D-League All-Stars,364.l.8091.t.5,"Sat, 07 Jan 2017 00:36:07",add
+2017-01-07,Sergio,Rodriguez,PG,D-League All-Stars,364.l.8091.t.5,"Sat, 07 Jan 2017 00:36:07",drop
+2017-01-06,Buddy,Hield,SG,Stream Team,364.l.8091.t.9,"Fri, 06 Jan 2017 15:05:30",add
+2017-01-06,Jusuf,Nurkic,C,Stream Team,364.l.8091.t.9,"Fri, 06 Jan 2017 15:05:30",drop
+2017-01-05,Joakim,Noah,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Thu, 05 Jan 2017 03:33:54",add
+2017-01-05,Justise,Winslow,"SF,PF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Thu, 05 Jan 2017 03:33:54",drop
+2017-01-04,Alex,Len,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Wed, 04 Jan 2017 17:49:28",add
+2017-01-04,Kenneth,Faried,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Wed, 04 Jan 2017 17:49:28",drop
+2017-01-04,Rondae,Hollis-Jefferson,"SG,SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Wed, 04 Jan 2017 16:34:42",add
+2017-01-04,Terrence,Jones,"SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Wed, 04 Jan 2017 16:34:42",drop
+2017-01-04,Jusuf,Nurkic,C,Stream Team,364.l.8091.t.9,"Wed, 04 Jan 2017 03:50:02",add
+2017-01-04,Emmanuel,Mudiay,PG,Stream Team,364.l.8091.t.9,"Wed, 04 Jan 2017 03:50:02",drop
+2017-01-03,Seth,Curry,"PG,SG",Harry B's Hairy Bees,364.l.8091.t.13,"Tue, 03 Jan 2017 03:51:57",add
+2017-01-03,Cody,Zeller,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Tue, 03 Jan 2017 03:51:57",drop
+2017-01-02,Luol,Deng,"SF,PF",Cool Cats,364.l.8091.t.4,"Mon, 02 Jan 2017 18:38:37",drop
+2017-01-02,P.J.,Tucker,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Mon, 02 Jan 2017 02:25:31",add
+2017-01-02,Michael,Kidd-Gilchrist,SF,D-League All-Stars,364.l.8091.t.5,"Mon, 02 Jan 2017 02:25:31",drop
+2017-01-01,Zach,Randolph,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Sun, 01 Jan 2017 08:22:18",add
+2017-01-01,Jamal,Crawford,"SG,SF",Harry B's Hairy Bees,364.l.8091.t.13,"Sun, 01 Jan 2017 08:22:18",drop
+2017-01-01,Alex,Len,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 01 Jan 2017 04:39:46",drop
+2017-01-01,Bojan,Bogdanovic,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sun, 01 Jan 2017 00:48:58",add
+2017-01-01,Andre,Roberson,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sun, 01 Jan 2017 00:48:58",drop
+2017-01-01,Monta,Ellis,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Sun, 01 Jan 2017 00:37:51",add
+2017-01-01,Ty,Lawson,PG,D-League All-Stars,364.l.8091.t.5,"Sun, 01 Jan 2017 00:37:51",drop
+2016-12-30,DeMarre,Carroll,"SF,PF",Trinh,364.l.8091.t.10,"Fri, 30 Dec 2016 08:22:45",add
+2016-12-30,Seth,Curry,"PG,SG",One for the Mainland,364.l.8091.t.7,"Fri, 30 Dec 2016 07:46:13",drop
+2016-12-30,Clint,Capela,"PF,C",Trinh,364.l.8091.t.10,"Fri, 30 Dec 2016 01:35:40",add
+2016-12-30,Zach,Randolph,"PF,C",Trinh,364.l.8091.t.10,"Fri, 30 Dec 2016 01:35:40",drop
+2016-12-29,Terrence,Ross,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Thu, 29 Dec 2016 18:45:30",add
+2016-12-29,Lucas,Nogueira,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Thu, 29 Dec 2016 18:45:30",drop
+2016-12-28,Josh,Richardson,"SG,SF",Stream Team,364.l.8091.t.9,"Wed, 28 Dec 2016 08:43:48",add
+2016-12-28,Rondae,Hollis-Jefferson,"SG,SF,PF",Stream Team,364.l.8091.t.9,"Wed, 28 Dec 2016 08:43:48",drop
+2016-12-28,JaMychal,Green,PF,Stream Team,364.l.8091.t.9,"Wed, 28 Dec 2016 02:12:49",add
+2016-12-28,DeMarre,Carroll,"SF,PF",Stream Team,364.l.8091.t.9,"Wed, 28 Dec 2016 02:12:49",drop
+2016-12-28,Marreese,Speights,"PF,C",Icin On The Beefcake,364.l.8091.t.11,"Wed, 28 Dec 2016 01:22:37",add
+2016-12-28,Marco,Belinelli,"SG,SF",Icin On The Beefcake,364.l.8091.t.11,"Wed, 28 Dec 2016 01:22:37",drop
+2016-12-28,Seth,Curry,"PG,SG",One for the Mainland,364.l.8091.t.7,"Wed, 28 Dec 2016 00:11:33",add
+2016-12-28,Garrett,Temple,"PG,SG",One for the Mainland,364.l.8091.t.7,"Wed, 28 Dec 2016 00:11:33",drop
+2016-12-27,Michael,Kidd-Gilchrist,SF,D-League All-Stars,364.l.8091.t.5,"Tue, 27 Dec 2016 03:17:59",add
+2016-12-27,Tim,Frazier,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Tue, 27 Dec 2016 03:17:59",drop
+2016-12-27,Sean,Kilpatrick,"PG,SG",Stream Team,364.l.8091.t.9,"Tue, 27 Dec 2016 03:06:31",add
+2016-12-27,P.J.,Tucker,"SG,SF",Stream Team,364.l.8091.t.9,"Tue, 27 Dec 2016 03:06:31",drop
+2016-12-26,Ty,Lawson,PG,D-League All-Stars,364.l.8091.t.5,"Mon, 26 Dec 2016 11:02:36",add
+2016-12-26,Brandon,Jennings,PG,D-League All-Stars,364.l.8091.t.5,"Mon, 26 Dec 2016 11:02:36",drop
+2016-12-26,James,Johnson,"SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Mon, 26 Dec 2016 06:29:34",add
+2016-12-26,Terrence,Ross,"SG,SF",Icin On The Beefcake,364.l.8091.t.11,"Mon, 26 Dec 2016 06:29:34",drop
+2016-12-26,P.J.,Tucker,"SG,SF",Stream Team,364.l.8091.t.9,"Mon, 26 Dec 2016 05:18:52",add
+2016-12-26,Kyle,O'Quinn,"PF,C",Stream Team,364.l.8091.t.9,"Mon, 26 Dec 2016 05:18:52",drop
+2016-12-25,Lucas,Nogueira,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 25 Dec 2016 22:38:17",add
+2016-12-25,Willy,Hernangomez,C,Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 25 Dec 2016 22:38:17",drop
+2016-12-25,Jamal,Crawford,"SG,SF",Harry B's Hairy Bees,364.l.8091.t.13,"Sun, 25 Dec 2016 07:35:58",add
+2016-12-25,Seth,Curry,"PG,SG",Harry B's Hairy Bees,364.l.8091.t.13,"Sun, 25 Dec 2016 07:35:58",drop
+2016-12-25,John,Henson,"PF,C",Adam Silver,364.l.8091.t.1,"Sun, 25 Dec 2016 07:19:33",drop
+2016-12-24,Kyle,O'Quinn,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 24 Dec 2016 05:49:25",add
+2016-12-24,JaMychal,Green,PF,Stream Team,364.l.8091.t.9,"Sat, 24 Dec 2016 05:49:25",drop
+2016-12-24,Sergio,Rodriguez,PG,D-League All-Stars,364.l.8091.t.5,"Sat, 24 Dec 2016 04:44:45",add
+2016-12-24,Bojan,Bogdanovic,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sat, 24 Dec 2016 04:44:45",drop
+2016-12-24,Brandon,Jennings,PG,D-League All-Stars,364.l.8091.t.5,"Sat, 24 Dec 2016 03:31:12",add
+2016-12-24,Marquese,Chriss,PF,D-League All-Stars,364.l.8091.t.5,"Sat, 24 Dec 2016 03:31:12",drop
+2016-12-23,Nikola,Mirotic,"SF,PF",Valar Moredunkis,364.l.8091.t.12,"Fri, 23 Dec 2016 20:29:16",add
+2016-12-23,Khris,Middleton,"SG,SF",Valar Moredunkis,364.l.8091.t.12,"Fri, 23 Dec 2016 20:25:37",add
+2016-12-23,Sean,Kilpatrick,"PG,SG",Valar Moredunkis,364.l.8091.t.12,"Fri, 23 Dec 2016 20:25:37",drop
+2016-12-22,Bismack,Biyombo,"PF,C",Icin On The Beefcake,364.l.8091.t.11,"Thu, 22 Dec 2016 19:12:03",add
+2016-12-22,Dorian,Finney-Smith,"SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Thu, 22 Dec 2016 19:12:03",drop
+2016-12-22,Rondae,Hollis-Jefferson,"SG,SF,PF",Stream Team,364.l.8091.t.9,"Thu, 22 Dec 2016 04:36:40",add
+2016-12-22,Marreese,Speights,"PF,C",Stream Team,364.l.8091.t.9,"Thu, 22 Dec 2016 04:36:40",drop
+2016-12-22,Wayne,Ellington,"SG,SF",So Kawhi 。◕ ‿ ◕。,364.l.8091.t.8,"Thu, 22 Dec 2016 01:39:15",drop
+2016-12-21,Seth,Curry,"PG,SG",Harry B's Hairy Bees,364.l.8091.t.13,"Wed, 21 Dec 2016 04:27:05",add
+2016-12-21,Evan,Turner,"SG,SF",Harry B's Hairy Bees,364.l.8091.t.13,"Wed, 21 Dec 2016 04:27:05",drop
+2016-12-20,Willy,Hernangomez,C,Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 20 Dec 2016 07:54:31",add
+2016-12-20,Clint,Capela,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 20 Dec 2016 07:54:31",drop
+2016-12-20,Montrezl,Harrell,"PF,C",Trinh,364.l.8091.t.10,"Tue, 20 Dec 2016 03:43:24",add
+2016-12-20,Jahlil,Okafor,C,Trinh,364.l.8091.t.10,"Tue, 20 Dec 2016 03:43:24",drop
+2016-12-20,Marreese,Speights,"PF,C",Stream Team,364.l.8091.t.9,"Tue, 20 Dec 2016 03:34:56",add
+2016-12-20,Kelly,Oubre Jr.,SF,Stream Team,364.l.8091.t.9,"Tue, 20 Dec 2016 03:34:56",drop
+2016-12-20,Emmanuel,Mudiay,PG,Stream Team,364.l.8091.t.9,"Tue, 20 Dec 2016 03:34:04",add
+2016-12-20,Josh,Richardson,"SG,SF",Stream Team,364.l.8091.t.9,"Tue, 20 Dec 2016 03:34:04",drop
+2016-12-20,James,Johnson,"SF,PF",Forgot About Dray,364.l.8091.t.3,"Tue, 20 Dec 2016 02:06:20",drop
+2016-12-19,Marco,Belinelli,"SG,SF",Icin On The Beefcake,364.l.8091.t.11,"Mon, 19 Dec 2016 22:01:30",add
+2016-12-19,Patrick,Patterson,"PF,C",Icin On The Beefcake,364.l.8091.t.11,"Mon, 19 Dec 2016 22:01:30",drop
+2016-12-19,Marcus,Smart,PG,One for the Mainland,364.l.8091.t.7,"Mon, 19 Dec 2016 08:41:14",add
+2016-12-19,Kyle,O'Quinn,"PF,C",One for the Mainland,364.l.8091.t.7,"Mon, 19 Dec 2016 08:41:14",drop
+2016-12-19,Sergio,Rodriguez,PG,D-League All-Stars,364.l.8091.t.5,"Mon, 19 Dec 2016 03:16:17",drop
+2016-12-19,Luol,Deng,"SF,PF",Cool Cats,364.l.8091.t.4,"Mon, 19 Dec 2016 02:35:43",add
+2016-12-19,Frank,Kaminsky,"PF,C",Cool Cats,364.l.8091.t.4,"Mon, 19 Dec 2016 02:35:43",drop
+2016-12-18,Jusuf,Nurkic,C,Valar Moredunkis,364.l.8091.t.12,"Sun, 18 Dec 2016 10:08:22",drop
+2016-12-17,Garrett,Temple,"PG,SG",One for the Mainland,364.l.8091.t.7,"Sat, 17 Dec 2016 21:40:11",add
+2016-12-17,Jeff,Green,"SG,SF,PF",One for the Mainland,364.l.8091.t.7,"Sat, 17 Dec 2016 21:40:11",drop
+2016-12-17,Kelly,Oubre Jr.,SF,Stream Team,364.l.8091.t.9,"Sat, 17 Dec 2016 05:32:19",add
+2016-12-17,Marcus,Smart,PG,Stream Team,364.l.8091.t.9,"Sat, 17 Dec 2016 05:32:19",drop
+2016-12-16,Marquese,Chriss,PF,D-League All-Stars,364.l.8091.t.5,"Fri, 16 Dec 2016 18:40:48",add
+2016-12-16,Brandon,Jennings,PG,D-League All-Stars,364.l.8091.t.5,"Fri, 16 Dec 2016 18:40:48",drop
+2016-12-16,Langston,Galloway,"PG,SG",Stream Team,364.l.8091.t.9,"Fri, 16 Dec 2016 14:44:06",drop
+2016-12-16,Cody,Zeller,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Fri, 16 Dec 2016 07:11:24",add
+2016-12-16,Dario,Saric,"SF,PF",Harry B's Hairy Bees,364.l.8091.t.13,"Fri, 16 Dec 2016 07:11:24",drop
+2016-12-15,Brandon,Jennings,PG,D-League All-Stars,364.l.8091.t.5,"Thu, 15 Dec 2016 18:27:52",add
+2016-12-15,Langston,Galloway,"PG,SG",Stream Team,364.l.8091.t.9,"Thu, 15 Dec 2016 01:46:44",add
+2016-12-15,J.R.,Smith,"SG,SF",Stream Team,364.l.8091.t.9,"Thu, 15 Dec 2016 01:46:44",drop
+2016-12-14,Channing,Frye,"PF,C",Trinh,364.l.8091.t.10,"Wed, 14 Dec 2016 19:41:22",drop
+2016-12-14,J.R.,Smith,"SG,SF",Stream Team,364.l.8091.t.9,"Wed, 14 Dec 2016 07:31:30",add
+2016-12-14,Dorian,Finney-Smith,"SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Wed, 14 Dec 2016 01:02:19",add
+2016-12-14,Michael,Kidd-Gilchrist,SF,Icin On The Beefcake,364.l.8091.t.11,"Wed, 14 Dec 2016 01:02:19",drop
+2016-12-13,Terrence,Ross,"SG,SF",Icin On The Beefcake,364.l.8091.t.11,"Tue, 13 Dec 2016 02:32:49",add
+2016-12-13,Monta,Ellis,"PG,SG",Icin On The Beefcake,364.l.8091.t.11,"Tue, 13 Dec 2016 02:32:49",drop
+2016-12-12,Malcolm,Brogdon,"PG,SG",#Hwaiting,364.l.8091.t.2,"Mon, 12 Dec 2016 08:53:00",add
+2016-12-12,Ish,Smith,PG,#Hwaiting,364.l.8091.t.2,"Mon, 12 Dec 2016 08:53:00",drop
+2016-12-12,Kenneth,Faried,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 12 Dec 2016 08:22:26",add
+2016-12-12,Jared,Dudley,"SG,SF,PF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 12 Dec 2016 08:22:26",drop
+2016-12-11,Nik,Stauskas,"SG,SF",Stream Team,364.l.8091.t.9,"Sun, 11 Dec 2016 09:39:20",drop
+2016-12-11,Josh,Richardson,"SG,SF",Stream Team,364.l.8091.t.9,"Sun, 11 Dec 2016 08:06:19",add
+2016-12-11,Langston,Galloway,"PG,SG",Stream Team,364.l.8091.t.9,"Sun, 11 Dec 2016 08:06:19",drop
+2016-12-11,Nik,Stauskas,"SG,SF",Stream Team,364.l.8091.t.9,"Sun, 11 Dec 2016 02:58:52",add
+2016-12-11,Jameer,Nelson,PG,Stream Team,364.l.8091.t.9,"Sun, 11 Dec 2016 02:58:52",drop
+2016-12-11,Jared,Dudley,"SG,SF,PF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 11 Dec 2016 02:29:16",add
+2016-12-11,Andrew,Harrison,"PG,SG",Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 11 Dec 2016 02:29:16",drop
+2016-12-11,Matthew,Dellavedova,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Sun, 11 Dec 2016 00:35:37",drop
+2016-12-10,Langston,Galloway,"PG,SG",Stream Team,364.l.8091.t.9,"Sat, 10 Dec 2016 06:14:22",add
+2016-12-10,Lucas,Nogueira,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 10 Dec 2016 06:14:22",drop
+2016-12-09,Allen,Crabbe,"PG,SG",Icin On The Beefcake,364.l.8091.t.11,"Fri, 09 Dec 2016 20:48:45",add
+2016-12-09,Kenneth,Faried,"PF,C",Icin On The Beefcake,364.l.8091.t.11,"Fri, 09 Dec 2016 20:48:45",drop
+2016-12-09,Channing,Frye,"PF,C",Trinh,364.l.8091.t.10,"Fri, 09 Dec 2016 02:52:56",add
+2016-12-09,E'Twaun,Moore,"PG,SG",Trinh,364.l.8091.t.10,"Fri, 09 Dec 2016 02:52:56",drop
+2016-12-09,Jameer,Nelson,PG,Stream Team,364.l.8091.t.9,"Fri, 09 Dec 2016 01:54:41",add
+2016-12-09,Troy,Daniels,"PG,SG",Stream Team,364.l.8091.t.9,"Fri, 09 Dec 2016 01:54:41",drop
+2016-12-08,Kyle,O'Quinn,"PF,C",One for the Mainland,364.l.8091.t.7,"Thu, 08 Dec 2016 15:27:52",add
+2016-12-08,Marcus,Smart,PG,Stream Team,364.l.8091.t.9,"Thu, 08 Dec 2016 08:30:30",add
+2016-12-08,Troy,Williams,"SG,SF,PF",Stream Team,364.l.8091.t.9,"Thu, 08 Dec 2016 08:30:30",drop
+2016-12-08,Cody,Zeller,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Thu, 08 Dec 2016 05:31:00",drop
+2016-12-08,Marvin,Williams,"SF,PF",Cool Cats,364.l.8091.t.4,"Thu, 08 Dec 2016 01:42:57",add
+2016-12-08,Emmanuel,Mudiay,PG,Cool Cats,364.l.8091.t.4,"Thu, 08 Dec 2016 01:42:57",drop
+2016-12-07,Troy,Williams,"SG,SF,PF",Stream Team,364.l.8091.t.9,"Wed, 07 Dec 2016 19:59:00",add
+2016-12-07,Brandon,Jennings,PG,Stream Team,364.l.8091.t.9,"Wed, 07 Dec 2016 19:59:00",drop
+2016-12-07,Patrick,Patterson,"PF,C",Icin On The Beefcake,364.l.8091.t.11,"Wed, 07 Dec 2016 17:45:50",add
+2016-12-07,Matt,Barnes,"SG,SF",Icin On The Beefcake,364.l.8091.t.11,"Wed, 07 Dec 2016 17:45:50",drop
+2016-12-07,Jeff,Green,"SG,SF,PF",One for the Mainland,364.l.8091.t.7,"Wed, 07 Dec 2016 06:36:08",add
+2016-12-07,Nik,Stauskas,"SG,SF",One for the Mainland,364.l.8091.t.7,"Wed, 07 Dec 2016 06:36:08",drop
+2016-12-06,Lucas,Nogueira,"PF,C",Stream Team,364.l.8091.t.9,"Tue, 06 Dec 2016 23:58:53",add
+2016-12-06,Josh,Richardson,"SG,SF",Stream Team,364.l.8091.t.9,"Tue, 06 Dec 2016 23:58:53",drop
+2016-12-06,Sean,Kilpatrick,"PG,SG",Valar Moredunkis,364.l.8091.t.12,"Tue, 06 Dec 2016 08:22:30",add
+2016-12-06,Rondae,Hollis-Jefferson,"SG,SF,PF",Valar Moredunkis,364.l.8091.t.12,"Tue, 06 Dec 2016 08:22:30",drop
+2016-12-06,Dwight,Powell,"PF,C",Valar Moredunkis,364.l.8091.t.12,"Tue, 06 Dec 2016 04:38:31",add
+2016-12-06,Marcus,Smart,PG,Valar Moredunkis,364.l.8091.t.12,"Tue, 06 Dec 2016 04:38:31",drop
+2016-12-05,Matthew,Dellavedova,"PG,SG",D-League All-Stars,364.l.8091.t.5,"Mon, 05 Dec 2016 23:39:30",add
+2016-12-05,Dario,Saric,"SF,PF",Harry B's Hairy Bees,364.l.8091.t.13,"Mon, 05 Dec 2016 14:51:29",add
+2016-12-05,Troy,Daniels,"PG,SG",Stream Team,364.l.8091.t.9,"Mon, 05 Dec 2016 04:29:59",add
+2016-12-05,Glenn,Robinson III,"SG,SF",Stream Team,364.l.8091.t.9,"Mon, 05 Dec 2016 04:29:59",drop
+2016-12-04,Brandon,Jennings,PG,Stream Team,364.l.8091.t.9,"Sun, 04 Dec 2016 07:09:09",add
+2016-12-04,Sean,Kilpatrick,"PG,SG",Stream Team,364.l.8091.t.9,"Sun, 04 Dec 2016 07:09:09",drop
+2016-12-04,Glenn,Robinson III,"SG,SF",Stream Team,364.l.8091.t.9,"Sun, 04 Dec 2016 05:51:51",add
+2016-12-04,Lucas,Nogueira,"PF,C",Stream Team,364.l.8091.t.9,"Sun, 04 Dec 2016 05:51:51",drop
+2016-12-04,John,Henson,"PF,C",Adam Silver,364.l.8091.t.1,"Sun, 04 Dec 2016 04:27:28",add
+2016-12-04,D.J.,Augustin,PG,Adam Silver,364.l.8091.t.1,"Sun, 04 Dec 2016 04:27:28",drop
+2016-12-03,Ish,Smith,PG,#Hwaiting,364.l.8091.t.2,"Sat, 03 Dec 2016 09:30:48",add
+2016-12-03,Seth,Curry,"PG,SG",#Hwaiting,364.l.8091.t.2,"Sat, 03 Dec 2016 09:30:48",drop
+2016-12-03,Deron,Williams,PG,Boomshakalaka,364.l.8091.t.14,"Sat, 03 Dec 2016 08:23:37",add
+2016-12-03,J.R.,Smith,"SG,SF",Boomshakalaka,364.l.8091.t.14,"Sat, 03 Dec 2016 08:23:37",drop
+2016-12-03,Lucas,Nogueira,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 03 Dec 2016 06:11:09",add
+2016-12-03,Jameer,Nelson,PG,Stream Team,364.l.8091.t.9,"Sat, 03 Dec 2016 06:11:09",drop
+2016-12-03,Will,Barton,"SG,SF",Boomshakalaka,364.l.8091.t.14,"Sat, 03 Dec 2016 05:15:51",add
+2016-12-03,Jamal,Murray,"PG,SG",Boomshakalaka,364.l.8091.t.14,"Sat, 03 Dec 2016 05:15:51",drop
+2016-12-02,Wayne,Ellington,"SG,SF",So Kawhi 。◕ ‿ ◕。,364.l.8091.t.8,"Fri, 02 Dec 2016 04:18:01",add
+2016-12-01,D.J.,Augustin,PG,Adam Silver,364.l.8091.t.1,"Thu, 01 Dec 2016 06:14:47",add
+2016-11-30,Sergio,Rodriguez,PG,D-League All-Stars,364.l.8091.t.5,"Wed, 30 Nov 2016 08:54:27",add
+2016-11-30,Deron,Williams,PG,D-League All-Stars,364.l.8091.t.5,"Wed, 30 Nov 2016 08:54:27",drop
+2016-11-30,Jameer,Nelson,PG,Stream Team,364.l.8091.t.9,"Wed, 30 Nov 2016 04:21:01",add
+2016-11-30,Jerryd,Bayless,"PG,SG",Stream Team,364.l.8091.t.9,"Wed, 30 Nov 2016 04:21:01",drop
+2016-11-29,Emmanuel,Mudiay,PG,Cool Cats,364.l.8091.t.4,"Tue, 29 Nov 2016 19:38:35",add
+2016-11-29,Andrew,Harrison,"PG,SG",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 29 Nov 2016 18:57:58",add
+2016-11-29,Mike,Muscala,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 29 Nov 2016 18:57:58",drop
+2016-11-28,Tyson,Chandler,C,#Hwaiting,364.l.8091.t.2,"Mon, 28 Nov 2016 22:32:13",add
+2016-11-28,Marco,Belinelli,"SG,SF",#Hwaiting,364.l.8091.t.2,"Mon, 28 Nov 2016 22:32:13",drop
+2016-11-28,Patty,Mills,PG,Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 28 Nov 2016 17:30:58",add
+2016-11-28,Terrence,Ross,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 28 Nov 2016 17:30:58",drop
+2016-11-28,Cody,Zeller,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Mon, 28 Nov 2016 15:46:16",add
+2016-11-28,Justin,Hamilton,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Mon, 28 Nov 2016 15:46:16",drop
+2016-11-27,Ersan,Ilyasova,"SF,PF",Adam Silver,364.l.8091.t.1,"Sun, 27 Nov 2016 17:02:38",add
+2016-11-27,Sergio,Rodriguez,PG,Adam Silver,364.l.8091.t.1,"Sun, 27 Nov 2016 17:02:38",drop
+2016-11-26,Frank,Kaminsky,"PF,C",Cool Cats,364.l.8091.t.4,"Sat, 26 Nov 2016 07:10:59",add
+2016-11-26,Will,Barton,"SG,SF",Cool Cats,364.l.8091.t.4,"Sat, 26 Nov 2016 07:10:59",drop
+2016-11-26,Andre,Roberson,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Sat, 26 Nov 2016 06:50:36",add
+2016-11-26,Marvin,Williams,"SF,PF",D-League All-Stars,364.l.8091.t.5,"Sat, 26 Nov 2016 06:50:36",drop
+2016-11-26,Sean,Kilpatrick,"PG,SG",Stream Team,364.l.8091.t.9,"Sat, 26 Nov 2016 03:22:04",add
+2016-11-26,Brandon,Jennings,PG,Stream Team,364.l.8091.t.9,"Sat, 26 Nov 2016 03:22:04",drop
+2016-11-24,Jamal,Murray,"PG,SG",Boomshakalaka,364.l.8091.t.14,"Thu, 24 Nov 2016 05:37:13",add
+2016-11-24,Emmanuel,Mudiay,PG,Boomshakalaka,364.l.8091.t.14,"Thu, 24 Nov 2016 05:37:13",drop
+2016-11-24,Jerryd,Bayless,"PG,SG",Stream Team,364.l.8091.t.9,"Thu, 24 Nov 2016 04:58:20",add
+2016-11-24,Ish,Smith,PG,Stream Team,364.l.8091.t.9,"Thu, 24 Nov 2016 04:58:20",drop
+2016-11-24,Marco,Belinelli,"SG,SF",#Hwaiting,364.l.8091.t.2,"Thu, 24 Nov 2016 03:44:04",add
+2016-11-24,Jonathan,Gibson,"PG,SG",#Hwaiting,364.l.8091.t.2,"Thu, 24 Nov 2016 03:44:04",drop
+2016-11-24,JaMychal,Green,PF,Stream Team,364.l.8091.t.9,"Thu, 24 Nov 2016 01:40:03",add
+2016-11-24,Alan,Williams,"PF,C",Stream Team,364.l.8091.t.9,"Thu, 24 Nov 2016 01:40:03",drop
+2016-11-23,Brandon,Jennings,PG,Stream Team,364.l.8091.t.9,"Wed, 23 Nov 2016 22:04:55",add
+2016-11-23,Vince,Carter,"SG,SF",One for the Mainland,364.l.8091.t.7,"Wed, 23 Nov 2016 18:38:56",drop
+2016-11-23,Ty,Lawson,PG,Cool Cats,364.l.8091.t.4,"Wed, 23 Nov 2016 16:17:23",drop
+2016-11-23,Patty,Mills,PG,D-League All-Stars,364.l.8091.t.5,"Wed, 23 Nov 2016 06:14:14",drop
+2016-11-23,Alan,Williams,"PF,C",Stream Team,364.l.8091.t.9,"Wed, 23 Nov 2016 03:10:21",add
+2016-11-23,Sean,Kilpatrick,"PG,SG",Stream Team,364.l.8091.t.9,"Wed, 23 Nov 2016 03:10:21",drop
+2016-11-22,Tony,Allen,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 22 Nov 2016 03:49:37",add
+2016-11-21,Larry,Nance Jr.,PF,So Kawhi 。◕ ‿ ◕。,364.l.8091.t.8,"Mon, 21 Nov 2016 17:56:49",add
+2016-11-21,Marquese,Chriss,PF,So Kawhi 。◕ ‿ ◕。,364.l.8091.t.8,"Mon, 21 Nov 2016 17:56:49",drop
+2016-11-21,Maurice,Harkless,SF,Adam Silver,364.l.8091.t.1,"Mon, 21 Nov 2016 17:43:30",add
+2016-11-21,Ersan,Ilyasova,"SF,PF",Adam Silver,364.l.8091.t.1,"Mon, 21 Nov 2016 17:43:30",drop
+2016-11-21,DeMarre,Carroll,"SF,PF",Stream Team,364.l.8091.t.9,"Mon, 21 Nov 2016 04:40:38",add
+2016-11-21,Trey,Lyles,PF,Stream Team,364.l.8091.t.9,"Mon, 21 Nov 2016 04:40:38",drop
+2016-11-21,Jonathan,Gibson,"PG,SG",#Hwaiting,364.l.8091.t.2,"Mon, 21 Nov 2016 03:10:50",add
+2016-11-21,Jared,Dudley,"SG,SF,PF",#Hwaiting,364.l.8091.t.2,"Mon, 21 Nov 2016 03:10:50",drop
+2016-11-20,Ty,Lawson,PG,Cool Cats,364.l.8091.t.4,"Sun, 20 Nov 2016 05:50:52",add
+2016-11-20,Jamal,Crawford,"SG,SF",Cool Cats,364.l.8091.t.4,"Sun, 20 Nov 2016 05:50:52",drop
+2016-11-20,Will,Barton,"SG,SF",Cool Cats,364.l.8091.t.4,"Sun, 20 Nov 2016 05:50:31",add
+2016-11-20,Nikola,Mirotic,"SF,PF",Cool Cats,364.l.8091.t.4,"Sun, 20 Nov 2016 05:50:31",drop
+2016-11-20,Nik,Stauskas,"SG,SF",One for the Mainland,364.l.8091.t.7,"Sun, 20 Nov 2016 03:16:22",add
+2016-11-20,Buddy,Hield,SG,One for the Mainland,364.l.8091.t.7,"Sun, 20 Nov 2016 03:16:22",drop
+2016-11-20,Mike,Muscala,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 20 Nov 2016 02:22:46",add
+2016-11-20,Kelly,Olynyk,C,Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 20 Nov 2016 02:22:46",drop
+2016-11-20,Cody,Zeller,"PF,C",Stream Team,364.l.8091.t.9,"Sun, 20 Nov 2016 00:14:41",drop
+2016-11-19,Emmanuel,Mudiay,PG,Boomshakalaka,364.l.8091.t.14,"Sat, 19 Nov 2016 08:23:46",add
+2016-11-19,Matthew,Dellavedova,"PG,SG",Boomshakalaka,364.l.8091.t.14,"Sat, 19 Nov 2016 08:23:46",drop
+2016-11-19,Cody,Zeller,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 19 Nov 2016 06:13:20",add
+2016-11-19,John,Henson,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 19 Nov 2016 06:13:20",drop
+2016-11-19,John,Henson,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 19 Nov 2016 06:10:35",add
+2016-11-18,Josh,Richardson,"SG,SF",Stream Team,364.l.8091.t.9,"Fri, 18 Nov 2016 08:23:30",add
+2016-11-18,Maurice,Harkless,SF,Stream Team,364.l.8091.t.9,"Fri, 18 Nov 2016 08:23:30",drop
+2016-11-18,Ersan,Ilyasova,"SF,PF",Adam Silver,364.l.8091.t.1,"Fri, 18 Nov 2016 01:56:48",add
+2016-11-18,Dario,Saric,"SF,PF",Adam Silver,364.l.8091.t.1,"Fri, 18 Nov 2016 01:56:48",drop
+2016-11-18,Jamal,Murray,"PG,SG",Adam Silver,364.l.8091.t.1,"Fri, 18 Nov 2016 00:00:28",drop
+2016-11-17,Trey,Lyles,PF,Stream Team,364.l.8091.t.9,"Thu, 17 Nov 2016 02:05:40",add
+2016-11-17,Lucas,Nogueira,"PF,C",Stream Team,364.l.8091.t.9,"Thu, 17 Nov 2016 02:05:40",drop
+2016-11-17,James,Johnson,"SF,PF",Forgot About Dray,364.l.8091.t.3,"Thu, 17 Nov 2016 00:12:06",add
+2016-11-16,Vince,Carter,"SG,SF",One for the Mainland,364.l.8091.t.7,"Wed, 16 Nov 2016 03:15:57",add
+2016-11-16,Tyus,Jones,PG,One for the Mainland,364.l.8091.t.7,"Wed, 16 Nov 2016 03:15:57",drop
+2016-11-16,Jamal,Murray,"PG,SG",Adam Silver,364.l.8091.t.1,"Wed, 16 Nov 2016 02:13:40",add
+2016-11-15,Patrick,Beverley,"PG,SG",Valar Moredunkis,364.l.8091.t.12,"Tue, 15 Nov 2016 20:47:39",add
+2016-11-15,Domantas,Sabonis,PF,Valar Moredunkis,364.l.8091.t.12,"Tue, 15 Nov 2016 20:47:39",drop
+2016-11-15,Clint,Capela,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 15 Nov 2016 16:05:41",add
+2016-11-15,Kris,Dunn,"PG,SG",Jimmy & Jimmy Co.,364.l.8091.t.6,"Tue, 15 Nov 2016 16:05:41",drop
+2016-11-15,Seth,Curry,"PG,SG",#Hwaiting,364.l.8091.t.2,"Tue, 15 Nov 2016 08:22:34",add
+2016-11-15,Emmanuel,Mudiay,PG,#Hwaiting,364.l.8091.t.2,"Tue, 15 Nov 2016 08:22:34",drop
+2016-11-15,Greg,Monroe,"PF,C",Boomshakalaka,364.l.8091.t.14,"Tue, 15 Nov 2016 08:22:34",add
+2016-11-15,Josh,Richardson,"SG,SF",Boomshakalaka,364.l.8091.t.14,"Tue, 15 Nov 2016 08:22:34",drop
+2016-11-14,Jared,Dudley,"SG,SF,PF",#Hwaiting,364.l.8091.t.2,"Mon, 14 Nov 2016 23:45:27",add
+2016-11-14,Iman,Shumpert,"SG,SF",#Hwaiting,364.l.8091.t.2,"Mon, 14 Nov 2016 23:45:27",drop
+2016-11-14,Jonas,Valanciunas,C,Stream Team,364.l.8091.t.9,"Mon, 14 Nov 2016 19:29:01",add
+2016-11-14,Rodney,Hood,"SG,SF",Adam Silver,364.l.8091.t.1,"Mon, 14 Nov 2016 19:28:38",add
+2016-11-14,Jonas,Valanciunas,C,Adam Silver,364.l.8091.t.1,"Mon, 14 Nov 2016 19:27:54",drop
+2016-11-14,Rodney,Hood,"SG,SF",Stream Team,364.l.8091.t.9,"Mon, 14 Nov 2016 19:27:35",drop
+2016-11-14,Jaylen,Brown,"SG,SF",Forgot About Dray,364.l.8091.t.3,"Mon, 14 Nov 2016 18:48:23",drop
+2016-11-14,Larry,Nance Jr.,PF,Stream Team,364.l.8091.t.9,"Mon, 14 Nov 2016 05:35:47",drop
+2016-11-13,Larry,Nance Jr.,PF,Stream Team,364.l.8091.t.9,"Sun, 13 Nov 2016 03:31:47",add
+2016-11-13,Greg,Monroe,"PF,C",Stream Team,364.l.8091.t.9,"Sun, 13 Nov 2016 03:31:47",drop
+2016-11-13,Nikola,Mirotic,"SF,PF",Cool Cats,364.l.8091.t.4,"Sun, 13 Nov 2016 03:22:20",add
+2016-11-13,Seth,Curry,"PG,SG",Cool Cats,364.l.8091.t.4,"Sun, 13 Nov 2016 03:22:20",drop
+2016-11-13,Kelly,Olynyk,C,Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 13 Nov 2016 01:50:07",add
+2016-11-13,JaMychal,Green,PF,Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 13 Nov 2016 01:50:07",drop
+2016-11-12,Domantas,Sabonis,PF,Valar Moredunkis,364.l.8091.t.12,"Sat, 12 Nov 2016 21:34:32",add
+2016-11-12,Tyreke,Evans,"PG,SG,SF",Valar Moredunkis,364.l.8091.t.12,"Sat, 12 Nov 2016 02:50:57",add
+2016-11-12,Al-Farouq,Aminu,"SF,PF",Valar Moredunkis,364.l.8091.t.12,"Sat, 12 Nov 2016 02:50:57",drop
+2016-11-12,Lucas,Nogueira,"PF,C",Stream Team,364.l.8091.t.9,"Sat, 12 Nov 2016 02:14:02",add
+2016-11-11,Justin,Hamilton,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Fri, 11 Nov 2016 05:00:10",add
+2016-11-11,John,Henson,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Fri, 11 Nov 2016 05:00:10",drop
+2016-11-11,Iman,Shumpert,"SG,SF",#Hwaiting,364.l.8091.t.2,"Fri, 11 Nov 2016 04:08:16",add
+2016-11-11,Tyson,Chandler,C,#Hwaiting,364.l.8091.t.2,"Fri, 11 Nov 2016 04:08:16",drop
+2016-11-10,Alex,Len,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Thu, 10 Nov 2016 06:08:37",add
+2016-11-10,Allen,Crabbe,"PG,SG",Jimmy & Jimmy Co.,364.l.8091.t.6,"Thu, 10 Nov 2016 06:08:37",drop
+2016-11-10,Tyus,Jones,PG,One for the Mainland,364.l.8091.t.7,"Thu, 10 Nov 2016 05:39:55",add
+2016-11-10,Joe,Johnson,"SG,SF",One for the Mainland,364.l.8091.t.7,"Thu, 10 Nov 2016 05:39:55",drop
+2016-11-10,Seth,Curry,"PG,SG",Cool Cats,364.l.8091.t.4,"Thu, 10 Nov 2016 05:35:49",add
+2016-11-10,Jonathon,Simmons,"SG,SF",Cool Cats,364.l.8091.t.4,"Thu, 10 Nov 2016 05:35:49",drop
+2016-11-10,Terrence,Jones,"SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Thu, 10 Nov 2016 04:53:14",add
+2016-11-10,Nikola,Mirotic,"SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Thu, 10 Nov 2016 04:53:14",drop
+2016-11-09,Maurice,Harkless,SF,Stream Team,364.l.8091.t.9,"Wed, 09 Nov 2016 05:20:22",add
+2016-11-09,DeMarre,Carroll,"SF,PF",Stream Team,364.l.8091.t.9,"Wed, 09 Nov 2016 05:20:22",drop
+2016-11-09,Jon,Leuer,"PF,C",D-League All-Stars,364.l.8091.t.5,"Wed, 09 Nov 2016 01:56:31",add
+2016-11-07,Tyson,Chandler,C,#Hwaiting,364.l.8091.t.2,"Mon, 07 Nov 2016 22:38:52",add
+2016-11-07,Justin,Hamilton,"PF,C",#Hwaiting,364.l.8091.t.2,"Mon, 07 Nov 2016 22:38:52",drop
+2016-11-07,Nick,Young,"SG,SF",Adam Silver,364.l.8091.t.1,"Mon, 07 Nov 2016 05:17:09",add
+2016-11-07,James,Ennis III,"SG,SF",Adam Silver,364.l.8091.t.1,"Mon, 07 Nov 2016 05:17:09",drop
+2016-11-07,C.J.,Miles,"SG,SF",Trinh,364.l.8091.t.10,"Mon, 07 Nov 2016 03:27:49",add
+2016-11-07,Wade,Baldwin IV,PG,Trinh,364.l.8091.t.10,"Mon, 07 Nov 2016 03:27:49",drop
+2016-11-06,Terrence,Ross,"SG,SF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 06 Nov 2016 01:52:38",add
+2016-11-06,Mike,Muscala,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Sun, 06 Nov 2016 01:52:38",drop
+2016-11-05,Lou,Williams,"PG,SG",One for the Mainland,364.l.8091.t.7,"Sat, 05 Nov 2016 20:03:17",add
+2016-11-02,Emmanuel,Mudiay,PG,#Hwaiting,364.l.8091.t.2,"Wed, 02 Nov 2016 23:20:53",add
+2016-11-02,Will,Barton,"SG,SF",#Hwaiting,364.l.8091.t.2,"Wed, 02 Nov 2016 23:20:53",drop
+2016-11-01,J.J.,Barea,"PG,SG",Forgot About Dray,364.l.8091.t.3,"Tue, 01 Nov 2016 23:27:24",add
+2016-11-01,Stanley,Johnson,"SG,SF",Forgot About Dray,364.l.8091.t.3,"Tue, 01 Nov 2016 23:27:24",drop
+2016-11-01,Matt,Barnes,"SG,SF",Icin On The Beefcake,364.l.8091.t.11,"Tue, 01 Nov 2016 00:18:41",add
+2016-11-01,Luol,Deng,"SF,PF",Icin On The Beefcake,364.l.8091.t.11,"Tue, 01 Nov 2016 00:18:41",drop
+2016-10-31,Mike,Muscala,"PF,C",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 31 Oct 2016 06:22:34",add
+2016-10-31,Ersan,Ilyasova,"SF,PF",Jimmy & Jimmy Co.,364.l.8091.t.6,"Mon, 31 Oct 2016 06:22:34",drop
+2016-10-31,Sean,Kilpatrick,"PG,SG",Stream Team,364.l.8091.t.9,"Mon, 31 Oct 2016 04:11:08",add
+2016-10-31,Seth,Curry,"PG,SG",Stream Team,364.l.8091.t.9,"Mon, 31 Oct 2016 04:11:08",drop
+2016-10-31,Thabo,Sefolosha,"SG,SF",#Hwaiting,364.l.8091.t.2,"Mon, 31 Oct 2016 01:58:42",add
+2016-10-31,Clint,Capela,"PF,C",#Hwaiting,364.l.8091.t.2,"Mon, 31 Oct 2016 01:58:42",drop
+2016-10-30,Trevor,Booker,PF,Forgot About Dray,364.l.8091.t.3,"Sun, 30 Oct 2016 16:17:33",add
+2016-10-30,Andrew,Bogut,C,Forgot About Dray,364.l.8091.t.3,"Sun, 30 Oct 2016 16:17:33",drop
+2016-10-30,J.R.,Smith,"SG,SF",Boomshakalaka,364.l.8091.t.14,"Sun, 30 Oct 2016 08:14:50",add
+2016-10-30,Joakim,Noah,"PF,C",Boomshakalaka,364.l.8091.t.14,"Sun, 30 Oct 2016 08:14:50",drop
+2016-10-30,James,Ennis III,"SG,SF",Adam Silver,364.l.8091.t.1,"Sun, 30 Oct 2016 04:00:34",add
+2016-10-30,Terrence,Jones,"SF,PF",Adam Silver,364.l.8091.t.1,"Sun, 30 Oct 2016 04:00:34",drop
+2016-10-30,Matthew,Dellavedova,"PG,SG",Boomshakalaka,364.l.8091.t.14,"Sun, 30 Oct 2016 02:43:34",add
+2016-10-30,Emmanuel,Mudiay,PG,Boomshakalaka,364.l.8091.t.14,"Sun, 30 Oct 2016 02:43:34",drop
+2016-10-30,John,Henson,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Sun, 30 Oct 2016 02:31:38",add
+2016-10-30,Al,Jefferson,"PF,C",Harry B's Hairy Bees,364.l.8091.t.13,"Sun, 30 Oct 2016 02:31:38",drop
+2016-10-29,T.J.,Warren,SF,Stream Team,364.l.8091.t.9,"Sat, 29 Oct 2016 01:35:43",add
+2016-10-29,Roy,Hibbert,C,Stream Team,364.l.8091.t.9,"Sat, 29 Oct 2016 01:35:43",drop
+2016-10-27,Roy,Hibbert,C,Stream Team,364.l.8091.t.9,"Thu, 27 Oct 2016 18:53:06",add
+2016-10-27,J.R.,Smith,"SG,SF",Stream Team,364.l.8091.t.9,"Thu, 27 Oct 2016 18:53:06",drop
+2016-10-27,Wade,Baldwin IV,PG,Trinh,364.l.8091.t.10,"Thu, 27 Oct 2016 10:36:14",add
+2016-10-27,Patty,Mills,PG,D-League All-Stars,364.l.8091.t.5,"Thu, 27 Oct 2016 03:08:53",add
+2016-10-27,Tony,Parker,PG,D-League All-Stars,364.l.8091.t.5,"Thu, 27 Oct 2016 03:08:53",drop
+2016-10-27,Bojan,Bogdanovic,"SG,SF",D-League All-Stars,364.l.8091.t.5,"Thu, 27 Oct 2016 03:05:27",add
+2016-10-27,Alex,Len,"PF,C",D-League All-Stars,364.l.8091.t.5,"Thu, 27 Oct 2016 03:05:11",drop
+2016-10-27,Mirza,Teletovic,"SF,PF",D-League All-Stars,364.l.8091.t.5,"Thu, 27 Oct 2016 03:04:24",drop
+2016-10-27,Justin,Hamilton,"PF,C",#Hwaiting,364.l.8091.t.2,"Thu, 27 Oct 2016 02:30:18",add
+2016-10-27,Matthew,Dellavedova,"PG,SG",#Hwaiting,364.l.8091.t.2,"Thu, 27 Oct 2016 02:30:18",drop
+2016-10-27,Sergio,Rodriguez,PG,Adam Silver,364.l.8091.t.1,"Thu, 27 Oct 2016 02:23:10",add
+2016-10-27,Kyle,Anderson,"SG,SF",Adam Silver,364.l.8091.t.1,"Thu, 27 Oct 2016 02:23:10",drop
+2016-10-26,E'Twaun,Moore,"PG,SG",Trinh,364.l.8091.t.10,"Wed, 26 Oct 2016 08:22:16",add
+2016-10-26,Patrick,Beverley,"PG,SG",Trinh,364.l.8091.t.10,"Wed, 26 Oct 2016 08:22:16",drop
+2016-10-26,Jonathon,Simmons,"SG,SF",Cool Cats,364.l.8091.t.4,"Wed, 26 Oct 2016 05:08:44",add
+2016-10-26,Joe,Johnson,"SG,SF",One for the Mainland,364.l.8091.t.7,"Wed, 26 Oct 2016 04:27:14",add
+2016-10-26,Kelly,Oubre Jr.,SF,One for the Mainland,364.l.8091.t.7,"Wed, 26 Oct 2016 04:27:14",drop
+2016-10-25,Tony,Parker,PG,D-League All-Stars,364.l.8091.t.5,"Tue, 25 Oct 2016 05:18:31",add
+2016-10-24,Andrew,Bogut,C,Forgot About Dray,364.l.8091.t.3,"Mon, 24 Oct 2016 23:42:36",add
+2016-10-24,Kyle,Anderson,"SG,SF",Adam Silver,364.l.8091.t.1,"Mon, 24 Oct 2016 03:30:59",add
+2016-10-24,Jamal,Murray,"PG,SG",Adam Silver,364.l.8091.t.1,"Mon, 24 Oct 2016 03:30:59",drop
+2016-10-23,Mason,Plumlee,"PF,C",Icin On The Beefcake,364.l.8091.t.11,"Sun, 23 Oct 2016 23:33:59",add
+2016-10-23,Jared,Sullinger,"PF,C",Icin On The Beefcake,364.l.8091.t.11,"Sun, 23 Oct 2016 23:33:59",drop
+2016-10-23,Clint,Capela,"PF,C",#Hwaiting,364.l.8091.t.2,"Sun, 23 Oct 2016 20:08:09",add
+2016-10-23,Brandon,Jennings,PG,#Hwaiting,364.l.8091.t.2,"Sun, 23 Oct 2016 20:08:09",drop
+2016-10-23,Brandon,Jennings,PG,#Hwaiting,364.l.8091.t.2,"Sun, 23 Oct 2016 05:58:21",add
+2016-10-19,Josh,Richardson,"SG,SF",Boomshakalaka,364.l.8091.t.14,"Wed, 19 Oct 2016 23:02:09",add
+2016-10-19,Tony,Snell,"SG,SF",Boomshakalaka,364.l.8091.t.14,"Wed, 19 Oct 2016 23:02:09",drop
+2016-10-19,Terrence,Jones,"SF,PF",Adam Silver,364.l.8091.t.1,"Wed, 19 Oct 2016 02:11:58",add
+2016-10-19,Clint,Capela,"PF,C",Adam Silver,364.l.8091.t.1,"Wed, 19 Oct 2016 02:11:58",drop
+2016-10-17,Tony,Snell,"SG,SF",Boomshakalaka,364.l.8091.t.14,"Mon, 17 Oct 2016 06:44:58",add
+2016-10-17,Arron,Afflalo,"SG,SF",Boomshakalaka,364.l.8091.t.14,"Mon, 17 Oct 2016 06:44:58",drop
+2016-10-17,Joakim,Noah,"PF,C",Boomshakalaka,364.l.8091.t.14,"Mon, 17 Oct 2016 05:02:35",add
+2016-10-17,Brandon,Jennings,PG,Boomshakalaka,364.l.8091.t.14,"Mon, 17 Oct 2016 05:02:35",drop
+2016-10-17,Brandon,Jennings,PG,Boomshakalaka,364.l.8091.t.14,"Mon, 17 Oct 2016 01:02:57",add
+2016-10-16,Ish,Smith,PG,Stream Team,364.l.8091.t.9,"Sun, 16 Oct 2016 22:57:54",add
+2016-10-16,Dante,Exum,"PG,SG",Stream Team,364.l.8091.t.9,"Sun, 16 Oct 2016 22:57:54",drop
+2016-10-16,Matthew,Dellavedova,"PG,SG",#Hwaiting,364.l.8091.t.2,"Sun, 16 Oct 2016 21:00:41",add
+2016-10-16,Michael,Carter-Williams,PG,#Hwaiting,364.l.8091.t.2,"Sun, 16 Oct 2016 21:00:41",drop

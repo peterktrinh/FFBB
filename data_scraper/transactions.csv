@@ -1,0 +1,609 @@
+first_name,last_name,position,team,timestamp,type
+Harrison,Barnes,"SF,PF",Adam Silver,"Sat, 02 Apr 2016 03:10:59",add
+Darrell,Arthur,"PF,C",Adam Silver,"Sat, 02 Apr 2016 03:10:59",drop
+Clint,Capela,"PF,C",Adam Silver,"Sat, 02 Apr 2016 03:09:51",add
+Jerami,Grant,"SF,PF",Adam Silver,"Sat, 02 Apr 2016 03:09:51",drop
+Jamal,Crawford,"SG,SF",#Hwaiting,"Sat, 02 Apr 2016 03:07:47",add
+Goran,Dragic,"PG,SG",#Hwaiting,"Sat, 02 Apr 2016 03:07:47",drop
+JaMychal,Green,PF,Adam Silver,"Sat, 02 Apr 2016 03:04:28",add
+Tim,Duncan,"PF,C",Adam Silver,"Sat, 02 Apr 2016 03:04:28",drop
+Thomas,Robinson,"PF,C",Adam Silver,"Sat, 02 Apr 2016 03:02:21",add
+Willie,Cauley-Stein,"PF,C",Adam Silver,"Sat, 02 Apr 2016 03:02:21",drop
+Tyson,Chandler,C,Adam Silver,"Sat, 02 Apr 2016 03:01:14",add
+Reggie,Jackson,"PG,SG",Adam Silver,"Sat, 02 Apr 2016 03:01:14",drop
+Wesley,Matthews,"SG,SF",#Hwaiting,"Sat, 02 Apr 2016 03:00:24",add
+Al-Farouq,Aminu,"SF,PF",#Hwaiting,"Sat, 02 Apr 2016 03:00:24",drop
+Jae,Crowder,"SF,PF",#Hwaiting,"Sat, 02 Apr 2016 03:00:14",add
+Carl,Landry,"SF,PF",#Hwaiting,"Sat, 02 Apr 2016 03:00:14",drop
+Darrell,Arthur,"PF,C",Adam Silver,"Sat, 02 Apr 2016 02:59:33",add
+Gorgui,Dieng,"PF,C",Adam Silver,"Sat, 02 Apr 2016 02:59:33",drop
+Jerami,Grant,"SF,PF",Adam Silver,"Sat, 02 Apr 2016 02:57:54",add
+Carmelo,Anthony,"SF,PF",Adam Silver,"Sat, 02 Apr 2016 02:57:54",drop
+Maurice,Harkless,SF,Adam Silver,"Sat, 02 Apr 2016 02:56:59",add
+Zach,Randolph,"PF,C",Adam Silver,"Sat, 02 Apr 2016 02:56:59",drop
+Tim,Duncan,"PF,C",Adam Silver,"Sat, 02 Apr 2016 02:55:30",add
+Otto,Porter,SF,Adam Silver,"Sat, 02 Apr 2016 02:55:30",drop
+Al-Farouq,Aminu,"SF,PF",#Hwaiting,"Fri, 01 Apr 2016 23:39:26",add
+P.J.,Tucker,"SG,SF",#Hwaiting,"Fri, 01 Apr 2016 23:39:26",drop
+Ed,Davis,"PF,C",#Hwaiting,"Fri, 01 Apr 2016 23:02:19",add
+Shane,Larkin,PG,#Hwaiting,"Fri, 01 Apr 2016 23:02:19",drop
+Jusuf,Nurkic,C,Valar Moredunkis,"Fri, 01 Apr 2016 03:24:58",add
+Marcelo,Huertas,PG,Valar Moredunkis,"Fri, 01 Apr 2016 03:24:58",drop
+Carl,Landry,"SF,PF",#Hwaiting,"Fri, 01 Apr 2016 00:56:59",add
+George,Hill,"PG,SG",#Hwaiting,"Fri, 01 Apr 2016 00:56:59",drop
+P.J.,Tucker,"SG,SF",#Hwaiting,"Fri, 01 Apr 2016 00:39:45",add
+D.J.,Augustin,PG,#Hwaiting,"Fri, 01 Apr 2016 00:39:45",drop
+Zach,Randolph,"PF,C",Adam Silver,"Fri, 01 Apr 2016 00:09:59",add
+Shelvin,Mack,PG,Adam Silver,"Fri, 01 Apr 2016 00:09:59",drop
+Willie,Cauley-Stein,"PF,C",Adam Silver,"Tue, 29 Mar 2016 18:17:22",add
+Jusuf,Nurkic,C,Adam Silver,"Tue, 29 Mar 2016 18:17:22",drop
+Shane,Larkin,PG,#Hwaiting,"Tue, 29 Mar 2016 00:54:32",add
+Tim,Frazier,PG,#Hwaiting,"Tue, 29 Mar 2016 00:54:32",drop
+Jusuf,Nurkic,C,Adam Silver,"Sun, 27 Mar 2016 20:06:45",add
+Jon,Leuer,"PF,C",Adam Silver,"Sun, 27 Mar 2016 20:06:45",drop
+Tim,Frazier,PG,#Hwaiting,"Sun, 27 Mar 2016 19:50:21",add
+J.J.,Barea,"PG,SG",#Hwaiting,"Sun, 27 Mar 2016 19:50:21",drop
+Mason,Plumlee,"PF,C",#Hwaiting,"Sun, 27 Mar 2016 19:40:44",add
+T.J.,McConnell,PG,#Hwaiting,"Sun, 27 Mar 2016 19:40:44",drop
+Raymond,Felton,"PG,SG",Valar Moredunkis,"Sat, 26 Mar 2016 23:43:38",add
+Jerami,Grant,"SF,PF",Valar Moredunkis,"Sat, 26 Mar 2016 23:43:38",drop
+J.J.,Barea,"PG,SG",#Hwaiting,"Sat, 26 Mar 2016 22:04:52",add
+Deron,Williams,PG,#Hwaiting,"Sat, 26 Mar 2016 22:04:52",drop
+T.J.,McConnell,PG,#Hwaiting,"Sat, 26 Mar 2016 22:00:12",add
+Thabo,Sefolosha,"SG,SF",#Hwaiting,"Sat, 26 Mar 2016 22:00:12",drop
+Marcelo,Huertas,PG,Valar Moredunkis,"Sat, 26 Mar 2016 21:39:33",add
+Toney,Douglas,"PG,SG",Valar Moredunkis,"Sat, 26 Mar 2016 21:39:33",drop
+Toney,Douglas,"PG,SG",Valar Moredunkis,"Fri, 25 Mar 2016 23:22:31",add
+Lance,Stephenson,"SG,SF",Valar Moredunkis,"Fri, 25 Mar 2016 23:22:31",drop
+Jonas,Valanciunas,C,Adam Silver,"Thu, 24 Mar 2016 18:26:28",add
+Zach,Randolph,"PF,C",Adam Silver,"Thu, 24 Mar 2016 18:26:28",drop
+Jon,Leuer,"PF,C",Adam Silver,"Thu, 24 Mar 2016 03:44:52",add
+Sean,Kilpatrick,SG,Adam Silver,"Thu, 24 Mar 2016 03:44:52",drop
+Sean,Kilpatrick,SG,Adam Silver,"Thu, 24 Mar 2016 00:50:05",add
+Omer,Asik,"PF,C",Adam Silver,"Thu, 24 Mar 2016 00:50:05",drop
+Omer,Asik,"PF,C",Adam Silver,"Mon, 21 Mar 2016 23:46:35",add
+Tyson,Chandler,C,Adam Silver,"Mon, 21 Mar 2016 23:46:35",drop
+Deron,Williams,PG,#Hwaiting,"Mon, 21 Mar 2016 04:32:27",add
+Miles,Plumlee,"PF,C",#Hwaiting,"Mon, 21 Mar 2016 04:32:27",drop
+Thabo,Sefolosha,"SG,SF",#Hwaiting,"Sun, 20 Mar 2016 22:01:13",add
+Cole,Aldrich,C,#Hwaiting,"Sun, 20 Mar 2016 22:01:13",drop
+Bojan,Bogdanovic,"SG,SF",Valar Moredunkis,"Sun, 20 Mar 2016 20:10:03",add
+J.R.,Smith,"SG,SF",Valar Moredunkis,"Sun, 20 Mar 2016 20:10:03",drop
+Zach,Randolph,"PF,C",Adam Silver,"Sun, 20 Mar 2016 19:10:42",add
+Jonas,Valanciunas,C,Adam Silver,"Sun, 20 Mar 2016 19:10:42",drop
+John,Henson,"PF,C",Cool Cats,"Sat, 19 Mar 2016 23:11:54",add
+Al,Jefferson,"PF,C",Cool Cats,"Sat, 19 Mar 2016 23:11:54",drop
+Cole,Aldrich,C,#Hwaiting,"Sat, 19 Mar 2016 22:18:02",add
+Tony,Allen,"SG,SF",#Hwaiting,"Sat, 19 Mar 2016 22:18:02",drop
+Miles,Plumlee,"PF,C",#Hwaiting,"Sat, 19 Mar 2016 22:09:17",add
+JaMychal,Green,PF,#Hwaiting,"Sat, 19 Mar 2016 22:09:17",drop
+Al,Jefferson,"PF,C",Cool Cats,"Sat, 19 Mar 2016 02:59:35",add
+Tim,Duncan,"PF,C",Cool Cats,"Sat, 19 Mar 2016 02:59:35",drop
+Marreese,Speights,"PF,C",BDD,"Sat, 19 Mar 2016 02:40:14",add
+Andrew,Bogut,C,BDD,"Sat, 19 Mar 2016 02:40:14",drop
+Arron,Afflalo,"SG,SF",BDD,"Sat, 19 Mar 2016 02:31:56",add
+Patrick,Patterson,"PF,C",BDD,"Sat, 19 Mar 2016 02:31:56",drop
+D.J.,Augustin,PG,#Hwaiting,"Sat, 19 Mar 2016 01:32:37",add
+Deron,Williams,PG,#Hwaiting,"Sat, 19 Mar 2016 01:32:37",drop
+Tony,Allen,"SG,SF",#Hwaiting,"Sat, 19 Mar 2016 01:20:04",add
+Mason,Plumlee,"PF,C",#Hwaiting,"Sat, 19 Mar 2016 01:20:04",drop
+JaMychal,Green,PF,#Hwaiting,"Sat, 19 Mar 2016 01:17:43",add
+Shaun,Livingston,"PG,SG",#Hwaiting,"Sat, 19 Mar 2016 01:17:43",drop
+Mason,Plumlee,"PF,C",#Hwaiting,"Fri, 18 Mar 2016 01:48:49",add
+Marcelo,Huertas,PG,#Hwaiting,"Fri, 18 Mar 2016 01:48:49",drop
+Jason,Smith,"PF,C",Cool Cats,"Fri, 18 Mar 2016 00:19:42",add
+Darrell,Arthur,"PF,C",Cool Cats,"Fri, 18 Mar 2016 00:19:42",drop
+Hollis,Thompson,"SG,SF",BDD,"Fri, 18 Mar 2016 00:07:58",add
+Harrison,Barnes,"SF,PF",BDD,"Fri, 18 Mar 2016 00:07:58",drop
+Patrick,Patterson,"PF,C",BDD,"Fri, 18 Mar 2016 00:01:36",add
+Jeremy,Lin,"PG,SG",BDD,"Fri, 18 Mar 2016 00:01:36",drop
+Marcelo,Huertas,PG,#Hwaiting,"Thu, 17 Mar 2016 09:31:14",add
+Wesley,Matthews,"SG,SF",#Hwaiting,"Thu, 17 Mar 2016 09:31:14",drop
+Shaun,Livingston,"PG,SG",#Hwaiting,"Thu, 17 Mar 2016 09:28:57",add
+Bojan,Bogdanovic,"SG,SF",#Hwaiting,"Thu, 17 Mar 2016 09:28:57",drop
+Darrell,Arthur,"PF,C",Cool Cats,"Wed, 16 Mar 2016 18:22:14",add
+Meyers,Leonard,"PF,C",Cool Cats,"Wed, 16 Mar 2016 18:22:14",drop
+Bojan,Bogdanovic,"SG,SF",#Hwaiting,"Wed, 16 Mar 2016 03:51:58",add
+E'Twaun,Moore,"PG,SG",#Hwaiting,"Wed, 16 Mar 2016 03:51:58",drop
+E'Twaun,Moore,"PG,SG",#Hwaiting,"Wed, 16 Mar 2016 01:58:24",add
+D.J.,Augustin,PG,#Hwaiting,"Wed, 16 Mar 2016 01:58:24",drop
+Michael,Beasley,"SF,PF",So Kawhi 。◕ ‿ ◕。,"Tue, 15 Mar 2016 20:53:32",add
+Jae,Crowder,"SF,PF",So Kawhi 。◕ ‿ ◕。,"Tue, 15 Mar 2016 20:53:32",drop
+D.J.,Augustin,PG,#Hwaiting,"Mon, 14 Mar 2016 22:39:31",add
+JaMychal,Green,PF,#Hwaiting,"Mon, 14 Mar 2016 22:39:31",drop
+Tim,Duncan,"PF,C",Cool Cats,"Mon, 14 Mar 2016 22:36:02",add
+Zach,Randolph,"PF,C",Cool Cats,"Mon, 14 Mar 2016 22:36:02",drop
+Isaiah,Canaan,PG,Cool Cats,"Mon, 14 Mar 2016 22:35:48",add
+Norris,Cole,"PG,SG",Cool Cats,"Mon, 14 Mar 2016 22:35:48",drop
+Shelvin,Mack,PG,Adam Silver,"Sun, 13 Mar 2016 19:58:36",add
+Jamal,Crawford,"SG,SF",Adam Silver,"Sun, 13 Mar 2016 19:58:36",drop
+Lance,Stephenson,"SG,SF",Valar Moredunkis,"Sun, 13 Mar 2016 03:13:30",add
+P.J.,Tucker,"SG,SF",Valar Moredunkis,"Sun, 13 Mar 2016 03:13:30",drop
+JaMychal,Green,PF,#Hwaiting,"Thu, 10 Mar 2016 00:22:54",add
+Al,Jefferson,"PF,C",#Hwaiting,"Thu, 10 Mar 2016 00:22:54",drop
+Jerryd,Bayless,"PG,SG",Greendale CC,"Wed, 09 Mar 2016 21:51:20",add
+Arron,Afflalo,"SG,SF",Greendale CC,"Wed, 09 Mar 2016 21:51:20",drop
+Mike,Dunleavy,"SG,SF",Greendale CC,"Wed, 09 Mar 2016 21:41:40",add
+Mario,Chalmers,"PG,SG",Greendale CC,"Wed, 09 Mar 2016 21:41:40",drop
+Brandon,Knight,"PG,SG",Thailandia,"Wed, 09 Mar 2016 07:15:35",add
+Mario,Hezonja,SG,Thailandia,"Wed, 09 Mar 2016 07:15:35",drop
+Frank,Kaminsky,"PF,C",Greendale CC,"Mon, 07 Mar 2016 02:41:55",add
+Courtney,Lee,"SG,SF",Greendale CC,"Mon, 07 Mar 2016 02:41:55",drop
+Patty,Mills,PG,Greendale CC,"Mon, 07 Mar 2016 02:26:22",add
+Mason,Plumlee,"PF,C",Greendale CC,"Mon, 07 Mar 2016 02:26:22",drop
+Matt,Barnes,"SG,SF",Thailandia,"Mon, 07 Mar 2016 00:17:33",add
+Justise,Winslow,"SF,PF",Thailandia,"Mon, 07 Mar 2016 00:17:33",drop
+Nikola,Mirotic,"SF,PF",Greendale CC,"Sun, 06 Mar 2016 19:06:32",add
+Ed,Davis,"PF,C",Greendale CC,"Sun, 06 Mar 2016 19:06:32",drop
+DeMarre,Carroll,"SF,PF",Thailandia,"Sun, 06 Mar 2016 09:04:46",add
+Bobby,Portis,"PF,C",Thailandia,"Sun, 06 Mar 2016 09:04:46",drop
+Emmanuel,Mudiay,PG,Cool Cats,"Sat, 05 Mar 2016 23:55:13",add
+Eric,Gordon,SG,Cool Cats,"Sat, 05 Mar 2016 23:55:13",drop
+Meyers,Leonard,"PF,C",Cool Cats,"Fri, 04 Mar 2016 02:50:06",add
+Tim,Duncan,"PF,C",Cool Cats,"Fri, 04 Mar 2016 02:50:06",drop
+Al,Jefferson,"PF,C",#Hwaiting,"Fri, 04 Mar 2016 01:37:23",add
+Willie,Cauley-Stein,"PF,C",#Hwaiting,"Fri, 04 Mar 2016 01:37:23",drop
+Norris,Cole,"PG,SG",Cool Cats,"Thu, 03 Mar 2016 03:00:05",add
+Kobe,Bryant,"SG,SF",Cool Cats,"Thu, 03 Mar 2016 03:00:05",drop
+Mario,Hezonja,SG,Thailandia,"Wed, 02 Mar 2016 23:29:36",add
+Matt,Barnes,"SG,SF",Thailandia,"Wed, 02 Mar 2016 23:29:36",drop
+Josh,Richardson,"SG,SF",Valar Moredunkis,"Wed, 02 Mar 2016 23:08:58",add
+Al-Farouq,Aminu,"SF,PF",Valar Moredunkis,"Wed, 02 Mar 2016 23:08:58",drop
+Joe,Johnson,"SG,SF",So Kawhi 。◕ ‿ ◕。,"Wed, 02 Mar 2016 16:58:17",add
+Clint,Capela,"PF,C",So Kawhi 。◕ ‿ ◕。,"Wed, 02 Mar 2016 16:58:17",drop
+Bobby,Portis,"PF,C",Thailandia,"Wed, 02 Mar 2016 00:10:41",add
+Doug,McDermott,SF,Thailandia,"Wed, 02 Mar 2016 00:10:41",drop
+Doug,McDermott,SF,Thailandia,"Tue, 01 Mar 2016 13:27:17",add
+Jared,Dudley,"SG,SF",Thailandia,"Tue, 01 Mar 2016 13:27:17",drop
+Marcus,Morris,"SF,PF",Cool Cats,"Tue, 01 Mar 2016 10:36:46",add
+Archie,Goodwin,"PG,SG",Cool Cats,"Tue, 01 Mar 2016 10:36:46",drop
+Alex,Len,"PF,C",Valar Moredunkis,"Tue, 01 Mar 2016 04:13:40",add
+Danilo,Gallinari,SF,Valar Moredunkis,"Tue, 01 Mar 2016 04:13:40",drop
+David,Lee,"PF,C",Thailandia,"Mon, 29 Feb 2016 12:47:58",add
+Al,Jefferson,"PF,C",Thailandia,"Mon, 29 Feb 2016 12:47:58",drop
+Donald,Sloan,"PG,SG",Triple Double No Ast,"Mon, 29 Feb 2016 02:12:08",add
+Brandan,Wright,"PF,C",Triple Double No Ast,"Mon, 29 Feb 2016 02:12:08",drop
+Markieff,Morris,"PF,C",Thailandia,"Sun, 28 Feb 2016 04:16:29",add
+Josh,Richardson,"SG,SF",Thailandia,"Sun, 28 Feb 2016 04:16:29",drop
+Josh,Richardson,"SG,SF",Thailandia,"Sun, 28 Feb 2016 00:51:46",add
+Steven,Adams,C,Thailandia,"Sun, 28 Feb 2016 00:51:46",drop
+Courtney,Lee,"SG,SF",Greendale CC,"Sat, 27 Feb 2016 22:29:31",add
+Patty,Mills,PG,Greendale CC,"Sat, 27 Feb 2016 22:29:31",drop
+Ed,Davis,"PF,C",Greendale CC,"Sat, 27 Feb 2016 12:45:17",add
+Alex,Len,"PF,C",Greendale CC,"Sat, 27 Feb 2016 12:45:17",drop
+Jared,Dudley,"SG,SF",Thailandia,"Sat, 27 Feb 2016 04:12:54",add
+Bojan,Bogdanovic,"SG,SF",Thailandia,"Sat, 27 Feb 2016 04:12:54",drop
+Jerami,Grant,"SF,PF",Valar Moredunkis,"Sat, 27 Feb 2016 03:29:49",add
+Marcus,Morris,"SF,PF",Valar Moredunkis,"Sat, 27 Feb 2016 03:29:49",drop
+Patrick,Beverley,"PG,SG",Thailandia,"Sat, 27 Feb 2016 01:29:50",add
+Jon,Leuer,"PF,C",Thailandia,"Sat, 27 Feb 2016 01:29:50",drop
+Tyson,Chandler,C,Adam Silver,"Fri, 26 Feb 2016 22:40:07",add
+Bobby,Portis,"PF,C",Adam Silver,"Fri, 26 Feb 2016 22:40:07",drop
+Bismack,Biyombo,C,D-League All-Stars,"Fri, 26 Feb 2016 00:49:21",add
+Kyle,Anderson,SF,D-League All-Stars,"Fri, 26 Feb 2016 00:49:21",drop
+Bojan,Bogdanovic,"SG,SF",Thailandia,"Thu, 25 Feb 2016 22:30:49",add
+Brandon,Jennings,PG,Thailandia,"Thu, 25 Feb 2016 22:30:49",drop
+Kyle,Anderson,SF,D-League All-Stars,"Thu, 25 Feb 2016 21:02:29",add
+Markieff,Morris,"PF,C",D-League All-Stars,"Thu, 25 Feb 2016 21:02:29",drop
+Steven,Adams,C,Thailandia,"Thu, 25 Feb 2016 01:32:45",add
+Jerami,Grant,"SF,PF",Thailandia,"Thu, 25 Feb 2016 01:32:45",drop
+Justise,Winslow,"SF,PF",Thailandia,"Thu, 25 Feb 2016 01:31:04",add
+Lance,Stephenson,"SG,SF",Thailandia,"Thu, 25 Feb 2016 01:31:04",drop
+Brandon,Jennings,PG,Thailandia,"Tue, 23 Feb 2016 11:52:17",add
+Kris,Humphries,"PF,C",Thailandia,"Tue, 23 Feb 2016 11:52:17",drop
+D'Angelo,Russell,PG,Thailandia,"Tue, 23 Feb 2016 03:36:17",add
+Norris,Cole,"PG,SG",Thailandia,"Tue, 23 Feb 2016 03:36:17",drop
+Alex,Len,"PF,C",Greendale CC,"Mon, 22 Feb 2016 22:00:27",add
+Jose,Calderon,PG,Greendale CC,"Mon, 22 Feb 2016 22:00:27",drop
+Patty,Mills,PG,Greendale CC,"Mon, 22 Feb 2016 01:53:42",add
+Mario,Hezonja,SG,Greendale CC,"Mon, 22 Feb 2016 01:53:42",drop
+Lance,Stephenson,"SG,SF",Thailandia,"Sun, 21 Feb 2016 23:39:09",add
+Jusuf,Nurkic,C,Thailandia,"Sun, 21 Feb 2016 23:39:09",drop
+Michael,Carter-Williams,PG,D-League All-Stars,"Sun, 21 Feb 2016 18:27:26",add
+Brandon,Knight,"PG,SG",D-League All-Stars,"Sun, 21 Feb 2016 18:27:26",drop
+Mario,Chalmers,"PG,SG",Greendale CC,"Sun, 21 Feb 2016 03:04:55",add
+Meyers,Leonard,"PF,C",Greendale CC,"Sun, 21 Feb 2016 03:04:55",drop
+Jusuf,Nurkic,C,Thailandia,"Sat, 20 Feb 2016 23:58:37",add
+Josh,McRoberts,"PF,C",Thailandia,"Sat, 20 Feb 2016 23:58:37",drop
+Jamal,Crawford,"SG,SF",Adam Silver,"Sat, 20 Feb 2016 23:05:31",add
+Kobe,Bryant,"SG,SF",Cool Cats,"Sat, 20 Feb 2016 14:49:14",add
+D'Angelo,Russell,PG,Cool Cats,"Sat, 20 Feb 2016 14:49:14",drop
+Kris,Humphries,"PF,C",Thailandia,"Sat, 20 Feb 2016 13:13:05",add
+Timofey,Mozgov,C,Thailandia,"Sat, 20 Feb 2016 13:13:05",drop
+Jared,Dudley,"SG,SF",Triple Double No Ast,"Sat, 20 Feb 2016 03:23:49",drop
+Jon,Leuer,"PF,C",Thailandia,"Sat, 20 Feb 2016 00:09:31",add
+Alex,Len,"PF,C",Thailandia,"Sat, 20 Feb 2016 00:09:31",drop
+Allen,Crabbe,"PG,SG",Triple Double No Ast,"Fri, 19 Feb 2016 23:57:08",add
+C.J.,Miles,"SG,SF",Triple Double No Ast,"Fri, 19 Feb 2016 23:57:08",drop
+Josh,McRoberts,"PF,C",Thailandia,"Fri, 19 Feb 2016 23:41:10",add
+Mario,Chalmers,"PG,SG",Thailandia,"Fri, 19 Feb 2016 23:41:10",drop
+Ian,Mahinmi,C,D-League All-Stars,"Fri, 19 Feb 2016 22:24:48",add
+Tony,Allen,"SG,SF",D-League All-Stars,"Fri, 19 Feb 2016 22:24:48",drop
+Mario,Chalmers,"PG,SG",Thailandia,"Fri, 19 Feb 2016 20:27:47",add
+Stanley,Johnson,"SG,SF",Thailandia,"Fri, 19 Feb 2016 20:27:47",drop
+Mario,Hezonja,SG,Greendale CC,"Fri, 19 Feb 2016 02:47:44",add
+Jeff,Green,"SG,SF",Greendale CC,"Fri, 19 Feb 2016 02:47:44",drop
+Eric,Gordon,SG,Cool Cats,"Thu, 18 Feb 2016 18:01:41",add
+DeMarre,Carroll,"SF,PF",Cool Cats,"Thu, 18 Feb 2016 18:01:41",drop
+Jerami,Grant,"SF,PF",Thailandia,"Thu, 18 Feb 2016 16:27:02",add
+Michael,Carter-Williams,PG,Thailandia,"Thu, 18 Feb 2016 16:27:02",drop
+Brandan,Wright,"PF,C",Triple Double No Ast,"Mon, 15 Feb 2016 13:24:57",add
+Michael,Kidd-Gilchrist,SF,Triple Double No Ast,"Mon, 15 Feb 2016 13:24:57",drop
+Bobby,Portis,"PF,C",Adam Silver,"Fri, 12 Feb 2016 00:37:05",add
+Patrick,Beverley,"PG,SG",Adam Silver,"Fri, 12 Feb 2016 00:37:05",drop
+DeMarre,Carroll,"SF,PF",Cool Cats,"Thu, 11 Feb 2016 10:38:40",add
+Jerryd,Bayless,"PG,SG",Cool Cats,"Thu, 11 Feb 2016 10:38:40",drop
+P.J.,Tucker,"SG,SF",Valar Moredunkis,"Thu, 11 Feb 2016 03:52:55",add
+Tyson,Chandler,C,Valar Moredunkis,"Thu, 11 Feb 2016 03:52:55",drop
+Kentavious,Caldwell-Pope,SG,Cool Cats,"Thu, 11 Feb 2016 00:55:33",add
+Kelly,Olynyk,C,Cool Cats,"Thu, 11 Feb 2016 00:55:33",drop
+Jerryd,Bayless,"PG,SG",Cool Cats,"Thu, 11 Feb 2016 00:42:42",add
+Joe,Johnson,"SG,SF",Cool Cats,"Thu, 11 Feb 2016 00:42:42",drop
+Matt,Barnes,"SG,SF",Thailandia,"Tue, 09 Feb 2016 18:39:17",add
+Marc,Gasol,C,Thailandia,"Tue, 09 Feb 2016 18:39:17",drop
+Al,Jefferson,"PF,C",Thailandia,"Mon, 08 Feb 2016 09:39:07",add
+P.J.,Tucker,"SG,SF",Thailandia,"Mon, 08 Feb 2016 09:39:07",drop
+Jose,Calderon,PG,Greendale CC,"Sat, 06 Feb 2016 23:19:15",add
+Trey,Burke,PG,Greendale CC,"Sat, 06 Feb 2016 23:19:15",drop
+Wesley,Johnson,"SG,SF",D-League All-Stars,"Fri, 05 Feb 2016 01:30:20",add
+Kentavious,Caldwell-Pope,SG,D-League All-Stars,"Fri, 05 Feb 2016 01:30:20",drop
+Stanley,Johnson,"SG,SF",Thailandia,"Wed, 03 Feb 2016 16:10:21",add
+Langston,Galloway,"PG,SG",Thailandia,"Wed, 03 Feb 2016 16:10:21",drop
+Evan,Turner,"SG,SF",Triple Double No Ast,"Wed, 03 Feb 2016 15:39:30",add
+John,Henson,"PF,C",Triple Double No Ast,"Wed, 03 Feb 2016 15:39:30",drop
+Danny,Green,"SG,SF",D-League All-Stars,"Tue, 02 Feb 2016 19:46:01",add
+Bobby,Portis,"PF,C",D-League All-Stars,"Tue, 02 Feb 2016 19:46:01",drop
+Markieff,Morris,"PF,C",D-League All-Stars,"Tue, 02 Feb 2016 19:44:21",add
+Boban,Marjanovic,C,D-League All-Stars,"Tue, 02 Feb 2016 19:44:21",drop
+Jeff,Green,"SG,SF",Greendale CC,"Mon, 01 Feb 2016 22:14:16",add
+T.J.,Warren,SF,Greendale CC,"Mon, 01 Feb 2016 22:14:16",drop
+Boban,Marjanovic,C,D-League All-Stars,"Mon, 01 Feb 2016 20:28:43",add
+Ian,Mahinmi,C,D-League All-Stars,"Mon, 01 Feb 2016 20:28:43",drop
+Patrick,Beverley,"PG,SG",Adam Silver,"Sat, 30 Jan 2016 22:53:08",add
+Danny,Green,"SG,SF",Adam Silver,"Sat, 30 Jan 2016 22:53:08",drop
+Langston,Galloway,"PG,SG",Thailandia,"Sat, 30 Jan 2016 11:22:04",add
+Eric,Gordon,SG,#Hwaiting,"Sat, 30 Jan 2016 03:24:46",drop
+Norris,Cole,"PG,SG",Thailandia,"Fri, 29 Jan 2016 20:36:13",add
+Donald,Sloan,"PG,SG",Thailandia,"Fri, 29 Jan 2016 20:36:13",drop
+Michael,Kidd-Gilchrist,SF,Triple Double No Ast,"Fri, 29 Jan 2016 17:10:56",add
+Allen,Crabbe,"PG,SG",Triple Double No Ast,"Fri, 29 Jan 2016 17:10:56",drop
+Danny,Green,"SG,SF",Adam Silver,"Thu, 28 Jan 2016 20:44:48",add
+Matt,Barnes,"SG,SF",Adam Silver,"Thu, 28 Jan 2016 20:44:48",drop
+Bobby,Portis,"PF,C",D-League All-Stars,"Thu, 28 Jan 2016 17:39:29",add
+Nikola,Mirotic,"SF,PF",D-League All-Stars,"Thu, 28 Jan 2016 17:39:29",drop
+Gary,Harris,SG,#Hwaiting,"Thu, 28 Jan 2016 17:37:55",add
+Gordon,Hayward,"SG,SF",#Hwaiting,"Thu, 28 Jan 2016 17:37:46",add
+Marc,Gasol,C,#Hwaiting,"Thu, 28 Jan 2016 17:37:35",add
+Eric,Gordon,SG,#Hwaiting,"Thu, 28 Jan 2016 17:37:17",add
+Wesley,Matthews,"SG,SF",Thailandia,"Thu, 28 Jan 2016 17:37:03",add
+Greg,Monroe,"PF,C",Thailandia,"Thu, 28 Jan 2016 17:36:48",add
+Willie,Cauley-Stein,"PF,C",Thailandia,"Thu, 28 Jan 2016 17:36:26",add
+Kyrie,Irving,"PG,SG",Thailandia,"Thu, 28 Jan 2016 17:36:11",add
+Kyrie,Irving,"PG,SG",#Hwaiting,"Thu, 28 Jan 2016 17:35:47",drop
+Greg,Monroe,"PF,C",#Hwaiting,"Thu, 28 Jan 2016 17:35:47",drop
+Willie,Cauley-Stein,"PF,C",#Hwaiting,"Thu, 28 Jan 2016 17:35:47",drop
+Wesley,Matthews,"SG,SF",#Hwaiting,"Thu, 28 Jan 2016 17:35:47",drop
+Gary,Harris,SG,Thailandia,"Thu, 28 Jan 2016 17:35:31",drop
+Marc,Gasol,C,Thailandia,"Thu, 28 Jan 2016 17:35:31",drop
+Gordon,Hayward,"SG,SF",Thailandia,"Thu, 28 Jan 2016 17:35:31",drop
+Eric,Gordon,SG,#Hwaiting,"Thu, 28 Jan 2016 17:29:48",drop
+Nikola,Jokic,C,BDD,"Tue, 26 Jan 2016 22:01:38",add
+Manu,Ginobili,"SG,SF",BDD,"Tue, 26 Jan 2016 22:01:38",drop
+Derrick,Rose,PG,Thailandia,"Mon, 25 Jan 2016 02:49:11",add
+Garrett,Temple,"PG,SG",Thailandia,"Mon, 25 Jan 2016 02:49:11",drop
+Alex,Len,"PF,C",Thailandia,"Sun, 24 Jan 2016 15:19:05",add
+Norris,Cole,"PG,SG",Thailandia,"Sun, 24 Jan 2016 15:19:05",drop
+Archie,Goodwin,"PG,SG",Cool Cats,"Sun, 24 Jan 2016 03:26:26",add
+Kobe,Bryant,"SG,SF",Cool Cats,"Sun, 24 Jan 2016 03:26:26",drop
+Tyson,Chandler,C,Valar Moredunkis,"Sun, 24 Jan 2016 01:07:04",add
+Jusuf,Nurkic,C,Valar Moredunkis,"Sun, 24 Jan 2016 01:07:04",drop
+Norris,Cole,"PG,SG",Thailandia,"Thu, 21 Jan 2016 21:01:44",add
+Markieff,Morris,"PF,C",Thailandia,"Thu, 21 Jan 2016 21:01:44",drop
+Jusuf,Nurkic,C,Valar Moredunkis,"Thu, 21 Jan 2016 04:25:12",add
+Jeff,Withey,C,Valar Moredunkis,"Thu, 21 Jan 2016 04:25:12",drop
+Willie,Cauley-Stein,"PF,C",Thailandia,"Thu, 21 Jan 2016 00:14:38",add
+Mario,Chalmers,"PG,SG",Thailandia,"Thu, 21 Jan 2016 00:14:38",drop
+Myles,Turner,"PF,C",Adam Silver,"Tue, 19 Jan 2016 22:28:10",add
+Patrick,Beverley,"PG,SG",Adam Silver,"Tue, 19 Jan 2016 22:28:10",drop
+Aaron,Gordon,"SF,PF",Adam Silver,"Mon, 18 Jan 2016 23:18:55",add
+Terrence,Jones,"SF,PF",Adam Silver,"Mon, 18 Jan 2016 23:18:55",drop
+Meyers,Leonard,"PF,C",Greendale CC,"Mon, 18 Jan 2016 22:58:38",add
+Jusuf,Nurkic,C,Greendale CC,"Mon, 18 Jan 2016 22:58:38",drop
+Joe,Johnson,"SG,SF",Cool Cats,"Mon, 18 Jan 2016 22:58:03",add
+Danny,Green,"SG,SF",Cool Cats,"Mon, 18 Jan 2016 22:58:03",drop
+Donald,Sloan,"PG,SG",Thailandia,"Fri, 15 Jan 2016 21:00:49",add
+Jon,Leuer,"PF,C",Thailandia,"Fri, 15 Jan 2016 21:00:49",drop
+Terrence,Jones,"SF,PF",Adam Silver,"Thu, 14 Jan 2016 03:20:48",add
+Aaron,Gordon,"SF,PF",Adam Silver,"Thu, 14 Jan 2016 03:20:48",drop
+Jabari,Parker,"SF,PF",Mr. Franchise,"Thu, 14 Jan 2016 00:08:29",add
+Roy,Hibbert,C,Mr. Franchise,"Thu, 14 Jan 2016 00:08:29",drop
+Markieff,Morris,"PF,C",Thailandia,"Wed, 13 Jan 2016 20:40:48",add
+Shane,Larkin,PG,Thailandia,"Wed, 13 Jan 2016 20:40:48",drop
+Garrett,Temple,"PG,SG",Thailandia,"Wed, 13 Jan 2016 20:37:58",add
+Jose,Calderon,PG,Thailandia,"Wed, 13 Jan 2016 20:37:58",drop
+Dennis,Schroder,PG,Triple Double No Ast,"Mon, 11 Jan 2016 22:36:29",add
+Jameer,Nelson,PG,Triple Double No Ast,"Mon, 11 Jan 2016 22:36:29",drop
+Tony,Allen,"SG,SF",D-League All-Stars,"Mon, 11 Jan 2016 21:09:42",add
+Jordan,Hill,"PF,C",D-League All-Stars,"Mon, 11 Jan 2016 21:09:42",drop
+Jose,Calderon,PG,Thailandia,"Mon, 11 Jan 2016 12:18:05",add
+Bobby,Portis,"PF,C",Thailandia,"Mon, 11 Jan 2016 12:18:05",drop
+Mario,Chalmers,"PG,SG",Thailandia,"Sat, 09 Jan 2016 21:55:05",add
+Meyers,Leonard,"PF,C",Thailandia,"Sat, 09 Jan 2016 21:55:05",drop
+Aaron,Gordon,"SF,PF",Adam Silver,"Sat, 09 Jan 2016 21:20:53",add
+DeMarre,Carroll,"SF,PF",Adam Silver,"Sat, 09 Jan 2016 21:20:53",drop
+Jared,Sullinger,"PF,C",Triple Double No Ast,"Fri, 08 Jan 2016 20:28:07",add
+Festus,Ezeli,C,Triple Double No Ast,"Fri, 08 Jan 2016 20:28:07",drop
+Amir,Johnson,"PF,C",Mr. Franchise,"Fri, 08 Jan 2016 02:02:58",add
+Jarrett,Jack,"PG,SG",Mr. Franchise,"Fri, 08 Jan 2016 02:02:58",drop
+Robin,Lopez,C,#Hwaiting,"Tue, 05 Jan 2016 22:41:32",add
+Ty,Lawson,PG,#Hwaiting,"Tue, 05 Jan 2016 22:41:32",drop
+John,Henson,"PF,C",Triple Double No Ast,"Tue, 05 Jan 2016 21:47:44",add
+Jerami,Grant,"SF,PF",Triple Double No Ast,"Tue, 05 Jan 2016 21:47:44",drop
+Jared,Dudley,"SG,SF",Triple Double No Ast,"Tue, 05 Jan 2016 21:44:10",add
+Ed,Davis,"PF,C",Triple Double No Ast,"Tue, 05 Jan 2016 21:44:10",drop
+Marcus,Smart,PG,Greendale CC,"Tue, 05 Jan 2016 20:24:58",add
+Terrence,Jones,"SF,PF",Greendale CC,"Tue, 05 Jan 2016 20:24:58",drop
+Larry,Nance Jr.,PF,Trinh,"Tue, 05 Jan 2016 08:29:56",add
+Nemanja,Bjelica,PF,Trinh,"Tue, 05 Jan 2016 08:29:56",drop
+Jeff,Withey,C,Valar Moredunkis,"Mon, 04 Jan 2016 12:31:19",add
+Jared,Sullinger,"PF,C",Valar Moredunkis,"Mon, 04 Jan 2016 12:31:19",drop
+Shane,Larkin,PG,Thailandia,"Sun, 03 Jan 2016 17:15:34",add
+Frank,Kaminsky,"PF,C",Thailandia,"Sun, 03 Jan 2016 17:15:34",drop
+Jusuf,Nurkic,C,Greendale CC,"Sat, 02 Jan 2016 18:12:59",add
+Al,Jefferson,"PF,C",Greendale CC,"Sat, 02 Jan 2016 18:12:59",drop
+P.J.,Tucker,"SG,SF",Thailandia,"Fri, 01 Jan 2016 22:28:05",add
+John,Henson,"PF,C",Thailandia,"Fri, 01 Jan 2016 22:28:05",drop
+Devin,Booker,SG,Cool Cats,"Thu, 31 Dec 2015 21:04:45",add
+Jerryd,Bayless,"PG,SG",Cool Cats,"Thu, 31 Dec 2015 21:04:45",drop
+Frank,Kaminsky,"PF,C",Thailandia,"Thu, 31 Dec 2015 10:31:10",add
+Alex,Len,"PF,C",Thailandia,"Thu, 31 Dec 2015 10:31:10",drop
+Cody,Zeller,"PF,C",Mr. Franchise,"Wed, 30 Dec 2015 19:36:42",add
+Ty,Lawson,PG,#Hwaiting,"Wed, 30 Dec 2015 04:22:08",add
+Dennis,Schroder,PG,#Hwaiting,"Wed, 30 Dec 2015 04:22:08",drop
+Nikola,Jokic,C,Adam Silver,"Wed, 30 Dec 2015 03:24:26",drop
+John,Henson,"PF,C",Thailandia,"Wed, 30 Dec 2015 01:09:56",add
+Jabari,Parker,"SF,PF",Thailandia,"Wed, 30 Dec 2015 01:09:56",drop
+Jerryd,Bayless,"PG,SG",Cool Cats,"Tue, 29 Dec 2015 14:24:35",add
+Eric,Bledsoe,"PG,SG",Cool Cats,"Tue, 29 Dec 2015 14:24:35",drop
+Tristan,Thompson,"PF,C",Triple Double No Ast,"Mon, 28 Dec 2015 23:43:48",add
+Steven,Adams,C,Triple Double No Ast,"Mon, 28 Dec 2015 23:43:48",drop
+Trey,Burke,PG,Greendale CC,"Sun, 27 Dec 2015 20:21:33",add
+Alec,Burks,"PG,SG",Greendale CC,"Sun, 27 Dec 2015 20:21:33",drop
+Meyers,Leonard,"PF,C",Thailandia,"Sun, 27 Dec 2015 02:18:46",add
+Andre,Iguodala,"SG,SF",Thailandia,"Sun, 27 Dec 2015 02:18:46",drop
+Nikola,Jokic,C,Adam Silver,"Sat, 26 Dec 2015 22:40:29",add
+Raymond,Felton,"PG,SG",Adam Silver,"Sat, 26 Dec 2015 22:40:29",drop
+Zach,Randolph,"PF,C",Cool Cats,"Sat, 26 Dec 2015 22:06:13",add
+Garrett,Temple,"PG,SG",Cool Cats,"Sat, 26 Dec 2015 22:06:13",drop
+Taj,Gibson,"PF,C",Valar Moredunkis,"Sat, 26 Dec 2015 05:13:30",add
+Jose,Calderon,PG,Valar Moredunkis,"Sat, 26 Dec 2015 05:13:30",drop
+Garrett,Temple,"PG,SG",Cool Cats,"Fri, 25 Dec 2015 23:52:51",add
+Derrick,Rose,PG,Cool Cats,"Fri, 25 Dec 2015 23:52:51",drop
+Dennis,Schroder,PG,#Hwaiting,"Thu, 24 Dec 2015 00:41:13",add
+O.J.,Mayo,"PG,SG",#Hwaiting,"Thu, 24 Dec 2015 00:41:13",drop
+Steven,Adams,C,Triple Double No Ast,"Wed, 23 Dec 2015 02:34:22",add
+Gary,Neal,"PG,SG",Triple Double No Ast,"Wed, 23 Dec 2015 02:34:22",drop
+Andre,Iguodala,"SG,SF",Thailandia,"Tue, 22 Dec 2015 21:55:55",add
+Joffrey,Lauvergne,"PF,C",Thailandia,"Tue, 22 Dec 2015 21:55:55",drop
+Kelly,Olynyk,C,Cool Cats,"Tue, 22 Dec 2015 17:32:21",add
+Joakim,Noah,"PF,C",Cool Cats,"Tue, 22 Dec 2015 17:32:21",drop
+Jordan,Hill,"PF,C",D-League All-Stars,"Mon, 21 Dec 2015 21:52:05",add
+Amir,Johnson,"PF,C",D-League All-Stars,"Mon, 21 Dec 2015 21:52:05",drop
+Gerald,Green,"SG,SF",Mr. Franchise,"Sun, 20 Dec 2015 23:26:10",add
+Joe,Johnson,"SG,SF",Mr. Franchise,"Sun, 20 Dec 2015 23:26:10",drop
+Bobby,Portis,"PF,C",Thailandia,"Sun, 20 Dec 2015 11:17:57",add
+Courtney,Lee,"SG,SF",Thailandia,"Sun, 20 Dec 2015 11:17:57",drop
+Jonas,Valanciunas,C,Adam Silver,"Sat, 19 Dec 2015 09:56:09",add
+Zach,Randolph,"PF,C",Adam Silver,"Sat, 19 Dec 2015 09:56:09",drop
+Joffrey,Lauvergne,"PF,C",Thailandia,"Sat, 19 Dec 2015 00:16:30",add
+Andre,Iguodala,"SG,SF",Thailandia,"Sat, 19 Dec 2015 00:16:30",drop
+Derrick,Rose,PG,Cool Cats,"Fri, 18 Dec 2015 23:16:17",add
+Evan,Turner,"SG,SF",Cool Cats,"Fri, 18 Dec 2015 23:16:17",drop
+Luol,Deng,"SF,PF",Greendale CC,"Fri, 18 Dec 2015 16:01:18",add
+Mo,Williams,"PG,SG",Greendale CC,"Fri, 18 Dec 2015 16:01:18",drop
+O.J.,Mayo,"PG,SG",#Hwaiting,"Thu, 17 Dec 2015 15:45:01",add
+Jared,Dudley,"SG,SF",#Hwaiting,"Thu, 17 Dec 2015 15:45:01",drop
+Courtney,Lee,"SG,SF",Thailandia,"Wed, 16 Dec 2015 23:49:46",add
+Jeff,Green,"SG,SF",Thailandia,"Wed, 16 Dec 2015 23:49:46",drop
+Gary,Neal,"PG,SG",Triple Double No Ast,"Wed, 16 Dec 2015 22:49:14",add
+Shane,Larkin,PG,Triple Double No Ast,"Wed, 16 Dec 2015 22:49:14",drop
+Jerami,Grant,"SF,PF",Triple Double No Ast,"Wed, 16 Dec 2015 22:43:43",add
+Tristan,Thompson,"PF,C",Triple Double No Ast,"Wed, 16 Dec 2015 22:43:43",drop
+Jared,Dudley,"SG,SF",#Hwaiting,"Tue, 15 Dec 2015 22:46:10",add
+Kelly,Olynyk,C,#Hwaiting,"Tue, 15 Dec 2015 22:46:10",drop
+Joakim,Noah,"PF,C",Cool Cats,"Tue, 15 Dec 2015 17:20:14",add
+Meyers,Leonard,"PF,C",Cool Cats,"Tue, 15 Dec 2015 17:20:14",drop
+Raymond,Felton,"PG,SG",Adam Silver,"Tue, 15 Dec 2015 14:00:20",add
+Bojan,Bogdanovic,"SG,SF",Adam Silver,"Tue, 15 Dec 2015 14:00:20",drop
+Jameer,Nelson,PG,Triple Double No Ast,"Tue, 15 Dec 2015 00:51:10",add
+Thabo,Sefolosha,"SG,SF",Triple Double No Ast,"Tue, 15 Dec 2015 00:51:10",drop
+Jeff,Green,"SG,SF",Thailandia,"Mon, 14 Dec 2015 23:36:07",add
+Derrick,Rose,PG,Thailandia,"Mon, 14 Dec 2015 23:36:07",drop
+Evan,Fournier,"SG,SF",So Kawhi 。◕ ‿ ◕。,"Mon, 14 Dec 2015 03:38:18",add
+Langston,Galloway,"PG,SG",So Kawhi 。◕ ‿ ◕。,"Mon, 14 Dec 2015 03:38:18",drop
+Allen,Crabbe,"PG,SG",Triple Double No Ast,"Sun, 13 Dec 2015 22:01:19",add
+Jeremy,Lamb,"SG,SF",Triple Double No Ast,"Sun, 13 Dec 2015 22:01:19",drop
+Matt,Barnes,"SG,SF",Adam Silver,"Sun, 13 Dec 2015 21:41:48",add
+Jerami,Grant,"SF,PF",Adam Silver,"Sun, 13 Dec 2015 21:41:48",drop
+D'Angelo,Russell,PG,Cool Cats,"Sat, 12 Dec 2015 03:24:21",add
+Joffrey,Lauvergne,"PF,C",Cool Cats,"Sat, 12 Dec 2015 03:24:21",drop
+Evan,Turner,"SG,SF",Cool Cats,"Sat, 12 Dec 2015 01:33:10",add
+Evan,Fournier,"SG,SF",Cool Cats,"Sat, 12 Dec 2015 01:33:10",drop
+Kelly,Olynyk,C,#Hwaiting,"Thu, 10 Dec 2015 19:36:26",add
+Patty,Mills,PG,#Hwaiting,"Thu, 10 Dec 2015 19:36:26",drop
+T.J.,Warren,SF,Greendale CC,"Thu, 10 Dec 2015 15:06:32",add
+Markieff,Morris,"PF,C",Greendale CC,"Thu, 10 Dec 2015 15:06:32",drop
+Michael,Carter-Williams,PG,Thailandia,"Thu, 10 Dec 2015 12:04:24",add
+Rodney,Stuckey,"PG,SG",Thailandia,"Thu, 10 Dec 2015 12:04:24",drop
+Joe,Johnson,"SG,SF",Mr. Franchise,"Thu, 10 Dec 2015 01:53:30",add
+Jerryd,Bayless,"PG,SG",Mr. Franchise,"Thu, 10 Dec 2015 01:53:30",drop
+Bojan,Bogdanovic,"SG,SF",Adam Silver,"Wed, 09 Dec 2015 12:50:43",add
+D'Angelo,Russell,PG,Adam Silver,"Wed, 09 Dec 2015 12:50:43",drop
+Shane,Larkin,PG,Triple Double No Ast,"Mon, 07 Dec 2015 16:17:14",add
+Tony,Allen,"SG,SF",Triple Double No Ast,"Mon, 07 Dec 2015 16:17:14",drop
+Rodney,Stuckey,"PG,SG",Thailandia,"Mon, 07 Dec 2015 12:30:55",add
+Rondae,Hollis-Jefferson,"SG,SF",Thailandia,"Mon, 07 Dec 2015 12:30:55",drop
+Amir,Johnson,"PF,C",D-League All-Stars,"Sun, 06 Dec 2015 01:43:00",add
+Bismack,Biyombo,C,D-League All-Stars,"Sun, 06 Dec 2015 01:43:00",drop
+Jon,Leuer,"PF,C",Thailandia,"Sun, 06 Dec 2015 01:35:50",add
+T.J.,Warren,SF,Thailandia,"Sun, 06 Dec 2015 01:35:50",drop
+Patrick,Beverley,"PG,SG",Adam Silver,"Fri, 04 Dec 2015 21:34:29",add
+Isaiah,Canaan,PG,Adam Silver,"Fri, 04 Dec 2015 21:34:29",drop
+Ian,Mahinmi,C,D-League All-Stars,"Thu, 03 Dec 2015 14:39:05",add
+Emmanuel,Mudiay,PG,D-League All-Stars,"Thu, 03 Dec 2015 14:39:05",drop
+Joffrey,Lauvergne,"PF,C",Cool Cats,"Thu, 03 Dec 2015 00:47:49",add
+Robin,Lopez,C,Cool Cats,"Thu, 03 Dec 2015 00:47:49",drop
+Mirza,Teletovic,"SF,PF",Mr. Franchise,"Wed, 02 Dec 2015 23:24:35",add
+Nikola,Jokic,C,Mr. Franchise,"Wed, 02 Dec 2015 23:24:35",drop
+Alex,Len,"PF,C",Thailandia,"Tue, 01 Dec 2015 22:25:12",add
+Jeff,Green,"SG,SF",Thailandia,"Tue, 01 Dec 2015 22:25:12",drop
+Isaiah,Canaan,PG,Adam Silver,"Tue, 01 Dec 2015 21:43:27",add
+Joe,Johnson,"SG,SF",Adam Silver,"Tue, 01 Dec 2015 21:43:27",drop
+Jerami,Grant,"SF,PF",Adam Silver,"Mon, 30 Nov 2015 12:22:13",add
+Aaron,Gordon,"SF,PF",Adam Silver,"Mon, 30 Nov 2015 12:22:13",drop
+Kosta,Koufos,"PF,C",Trinh,"Mon, 30 Nov 2015 08:03:58",add
+Jonas,Valanciunas,C,Trinh,"Mon, 30 Nov 2015 08:03:58",drop
+T.J.,Warren,SF,Thailandia,"Sun, 29 Nov 2015 00:51:33",add
+T.J.,McConnell,PG,Thailandia,"Sun, 29 Nov 2015 00:51:33",drop
+Joe,Johnson,"SG,SF",Adam Silver,"Sat, 28 Nov 2015 23:17:15",add
+Dennis,Schroder,PG,Adam Silver,"Sat, 28 Nov 2015 23:17:15",drop
+Meyers,Leonard,"PF,C",Cool Cats,"Sat, 28 Nov 2015 22:52:14",add
+Joffrey,Lauvergne,"PF,C",Cool Cats,"Sat, 28 Nov 2015 22:52:14",drop
+Jeff,Green,"SG,SF",Thailandia,"Fri, 27 Nov 2015 03:24:02",add
+Jerami,Grant,"SF,PF",Thailandia,"Fri, 27 Nov 2015 03:24:02",drop
+Bismack,Biyombo,C,D-League All-Stars,"Fri, 27 Nov 2015 01:42:59",add
+Jamal,Crawford,"SG,SF",D-League All-Stars,"Fri, 27 Nov 2015 01:42:59",drop
+Derrick,Rose,PG,Thailandia,"Thu, 26 Nov 2015 20:31:25",add
+Trey,Burke,PG,Thailandia,"Thu, 26 Nov 2015 20:31:25",drop
+Mo,Williams,"PG,SG",Greendale CC,"Thu, 26 Nov 2015 18:43:41",add
+Michael,Carter-Williams,PG,Greendale CC,"Thu, 26 Nov 2015 18:43:41",drop
+Jerami,Grant,"SF,PF",Thailandia,"Wed, 25 Nov 2015 21:33:14",add
+Dwight,Powell,PF,Thailandia,"Wed, 25 Nov 2015 21:33:14",drop
+Tristan,Thompson,"PF,C",Triple Double No Ast,"Wed, 25 Nov 2015 01:01:42",add
+Tyson,Chandler,C,Triple Double No Ast,"Wed, 25 Nov 2015 01:01:42",drop
+Thabo,Sefolosha,"SG,SF",Triple Double No Ast,"Wed, 25 Nov 2015 00:59:48",add
+Joe,Johnson,"SG,SF",Triple Double No Ast,"Wed, 25 Nov 2015 00:59:48",drop
+Aaron,Gordon,"SF,PF",Adam Silver,"Tue, 24 Nov 2015 03:00:45",add
+Jeff,Green,"SG,SF",Adam Silver,"Tue, 24 Nov 2015 03:00:45",drop
+Manu,Ginobili,"SG,SF",BDD,"Mon, 23 Nov 2015 20:08:19",add
+Marcus,Thornton,"SG,SF",BDD,"Mon, 23 Nov 2015 20:08:19",drop
+Gary,Harris,SG,#Hwaiting,"Mon, 23 Nov 2015 19:08:19",add
+Ty,Lawson,PG,#Hwaiting,"Mon, 23 Nov 2015 19:08:19",drop
+Joffrey,Lauvergne,"PF,C",Cool Cats,"Mon, 23 Nov 2015 15:53:46",add
+Amir,Johnson,"PF,C",Cool Cats,"Mon, 23 Nov 2015 15:53:46",drop
+Jose,Calderon,PG,Valar Moredunkis,"Mon, 23 Nov 2015 13:15:17",add
+Marcus,Smart,PG,Valar Moredunkis,"Mon, 23 Nov 2015 13:15:17",drop
+D'Angelo,Russell,PG,Adam Silver,"Mon, 23 Nov 2015 01:25:28",add
+Mo,Williams,"PG,SG",Adam Silver,"Mon, 23 Nov 2015 01:25:28",drop
+Rondae,Hollis-Jefferson,"SG,SF",Thailandia,"Sun, 22 Nov 2015 19:39:46",add
+Mario,Chalmers,"PG,SG",Thailandia,"Sun, 22 Nov 2015 19:39:46",drop
+Jabari,Parker,"SF,PF",Thailandia,"Sat, 21 Nov 2015 20:28:44",add
+Frank,Kaminsky,"PF,C",Thailandia,"Sat, 21 Nov 2015 20:28:44",drop
+Patty,Mills,PG,#Hwaiting,"Sat, 21 Nov 2015 03:24:24",add
+Bojan,Bogdanovic,"SG,SF",#Hwaiting,"Sat, 21 Nov 2015 03:24:24",drop
+Ty,Lawson,PG,#Hwaiting,"Sat, 21 Nov 2015 03:24:07",add
+Jerian,Grant,"PG,SG",#Hwaiting,"Sat, 21 Nov 2015 03:24:07",drop
+Omri,Casspi,"SF,PF",Greendale CC,"Fri, 20 Nov 2015 01:51:43",add
+D'Angelo,Russell,PG,Greendale CC,"Fri, 20 Nov 2015 01:51:43",drop
+Tony,Parker,PG,Mr. Franchise,"Thu, 19 Nov 2015 01:03:42",add
+Ty,Lawson,PG,Mr. Franchise,"Thu, 19 Nov 2015 01:03:42",drop
+Nikola,Jokic,C,Mr. Franchise,"Thu, 19 Nov 2015 00:55:13",add
+Manu,Ginobili,"SG,SF",Mr. Franchise,"Thu, 19 Nov 2015 00:55:13",drop
+Ersan,Ilyasova,"SF,PF",D-League All-Stars,"Thu, 19 Nov 2015 00:18:21",add
+Willie,Cauley-Stein,"PF,C",D-League All-Stars,"Thu, 19 Nov 2015 00:18:21",drop
+Frank,Kaminsky,"PF,C",Thailandia,"Wed, 18 Nov 2015 20:47:17",add
+Jabari,Parker,"SF,PF",Thailandia,"Wed, 18 Nov 2015 20:47:17",drop
+Jerryd,Bayless,"PG,SG",Mr. Franchise,"Tue, 17 Nov 2015 00:39:51",add
+Evan,Turner,"SG,SF",Mr. Franchise,"Tue, 17 Nov 2015 00:39:51",drop
+Jeff,Green,"SG,SF",Adam Silver,"Mon, 16 Nov 2015 22:34:16",add
+Derrick,Rose,PG,Adam Silver,"Mon, 16 Nov 2015 22:34:16",drop
+Mario,Chalmers,"PG,SG",Thailandia,"Sun, 15 Nov 2015 23:13:11",add
+Steven,Adams,C,Thailandia,"Sun, 15 Nov 2015 23:13:11",drop
+Zach,LaVine,"PG,SG",So Kawhi 。◕ ‿ ◕。,"Sun, 15 Nov 2015 21:28:56",add
+Kyle,O'Quinn,"PF,C",So Kawhi 。◕ ‿ ◕。,"Sun, 15 Nov 2015 21:28:56",drop
+J.R.,Smith,"SG,SF",Valar Moredunkis,"Sun, 15 Nov 2015 17:26:44",add
+Matt,Barnes,"SG,SF",Valar Moredunkis,"Sun, 15 Nov 2015 17:26:44",drop
+Jamal,Crawford,"SG,SF",D-League All-Stars,"Sun, 15 Nov 2015 02:58:25",add
+Nik,Stauskas,SG,D-League All-Stars,"Sun, 15 Nov 2015 02:58:25",drop
+Amir,Johnson,"PF,C",Cool Cats,"Fri, 13 Nov 2015 23:58:27",add
+Doug,McDermott,SF,Cool Cats,"Fri, 13 Nov 2015 23:58:27",drop
+Dennis,Schroder,PG,Adam Silver,"Fri, 13 Nov 2015 23:04:12",add
+Luis,Scola,"PF,C",Adam Silver,"Fri, 13 Nov 2015 23:04:12",drop
+Luis,Scola,"PF,C",Adam Silver,"Thu, 12 Nov 2015 19:10:19",add
+Meyers,Leonard,"PF,C",Adam Silver,"Thu, 12 Nov 2015 19:10:19",drop
+Matt,Barnes,"SG,SF",Valar Moredunkis,"Wed, 11 Nov 2015 23:03:08",add
+Jeff,Green,"SG,SF",Valar Moredunkis,"Wed, 11 Nov 2015 23:03:08",drop
+Evan,Turner,"SG,SF",Mr. Franchise,"Wed, 11 Nov 2015 20:14:41",add
+Wilson,Chandler,"SG,SF",Mr. Franchise,"Wed, 11 Nov 2015 20:14:41",drop
+Doug,McDermott,SF,Cool Cats,"Tue, 10 Nov 2015 22:19:22",add
+John,Henson,"PF,C",Cool Cats,"Tue, 10 Nov 2015 22:19:22",drop
+Steven,Adams,C,Thailandia,"Tue, 10 Nov 2015 03:23:52",add
+Aaron,Gordon,"SF,PF",Thailandia,"Tue, 10 Nov 2015 03:23:52",drop
+Trey,Burke,PG,Thailandia,"Mon, 09 Nov 2015 03:00:45",add
+Tristan,Thompson,"PF,C",Thailandia,"Mon, 09 Nov 2015 03:00:45",drop
+Terrence,Jones,"SF,PF",Greendale CC,"Sun, 08 Nov 2015 03:23:40",add
+Ersan,Ilyasova,"SF,PF",Greendale CC,"Sun, 08 Nov 2015 03:23:40",drop
+Nemanja,Bjelica,PF,Trinh,"Sun, 08 Nov 2015 01:48:13",add
+Doug,McDermott,SF,Trinh,"Sun, 08 Nov 2015 01:48:13",drop
+Clint,Capela,"PF,C",So Kawhi 。◕ ‿ ◕。,"Sun, 08 Nov 2015 00:49:22",add
+Steven,Adams,C,So Kawhi 。◕ ‿ ◕。,"Sun, 08 Nov 2015 00:49:22",drop
+Dwight,Powell,PF,Thailandia,"Sat, 07 Nov 2015 22:50:08",add
+Dennis,Schroder,PG,Thailandia,"Sat, 07 Nov 2015 22:50:08",drop
+Zaza,Pachulia,C,Mr. Franchise,"Sat, 07 Nov 2015 11:48:05",add
+Amir,Johnson,"PF,C",Mr. Franchise,"Sat, 07 Nov 2015 11:48:05",drop
+Festus,Ezeli,C,Triple Double No Ast,"Sat, 07 Nov 2015 00:05:47",add
+Patrick,Patterson,"PF,C",Triple Double No Ast,"Sat, 07 Nov 2015 00:05:47",drop
+John,Henson,"PF,C",Cool Cats,"Fri, 06 Nov 2015 22:08:32",add
+Myles,Turner,"PF,C",Cool Cats,"Fri, 06 Nov 2015 22:08:32",drop
+Marcus,Thornton,"SG,SF",BDD,"Fri, 06 Nov 2015 21:03:46",add
+David,Lee,"PF,C",BDD,"Fri, 06 Nov 2015 21:03:46",drop
+Will,Barton,"SG,SF",Triple Double No Ast,"Thu, 05 Nov 2015 20:31:30",add
+Terrence,Jones,"SF,PF",Triple Double No Ast,"Thu, 05 Nov 2015 20:31:30",drop
+Tristan,Thompson,"PF,C",Thailandia,"Thu, 05 Nov 2015 11:38:17",add
+Matthew,Dellavedova,"PG,SG",Thailandia,"Thu, 05 Nov 2015 11:38:17",drop
+Steven,Adams,C,So Kawhi 。◕ ‿ ◕。,"Thu, 05 Nov 2015 03:23:38",add
+Isaiah,Canaan,PG,So Kawhi 。◕ ‿ ◕。,"Thu, 05 Nov 2015 03:23:38",drop
+Jared,Sullinger,"PF,C",Valar Moredunkis,"Wed, 04 Nov 2015 21:26:09",add
+Alex,Len,"PF,C",Valar Moredunkis,"Wed, 04 Nov 2015 21:26:09",drop
+Jeremy,Lamb,"SG,SF",Triple Double No Ast,"Wed, 04 Nov 2015 19:27:17",add
+J.R.,Smith,"SG,SF",Triple Double No Ast,"Wed, 04 Nov 2015 19:27:17",drop
+C.J.,Miles,"SG,SF",Triple Double No Ast,"Wed, 04 Nov 2015 11:51:35",add
+Patrick,Beverley,"PG,SG",Triple Double No Ast,"Wed, 04 Nov 2015 11:51:35",drop
+Nik,Stauskas,SG,D-League All-Stars,"Tue, 03 Nov 2015 19:34:41",add
+Gerald,Green,"SG,SF",D-League All-Stars,"Tue, 03 Nov 2015 19:34:41",drop
+T.J.,McConnell,PG,Thailandia,"Tue, 03 Nov 2015 12:40:55",add
+Stanley,Johnson,"SG,SF",Thailandia,"Tue, 03 Nov 2015 12:40:55",drop
+Matthew,Dellavedova,"PG,SG",Thailandia,"Mon, 02 Nov 2015 22:36:05",add
+Steven,Adams,C,Thailandia,"Mon, 02 Nov 2015 22:36:05",drop
+Manu,Ginobili,"SG,SF",Mr. Franchise,"Mon, 02 Nov 2015 09:09:42",add
+Jusuf,Nurkic,C,Mr. Franchise,"Mon, 02 Nov 2015 09:09:42",drop
+Andre,Iguodala,"SG,SF",Thailandia,"Mon, 02 Nov 2015 01:55:03",add
+T.J.,Warren,SF,Thailandia,"Mon, 02 Nov 2015 01:55:03",drop
+Kent,Bazemore,"SG,SF",Adam Silver,"Sun, 01 Nov 2015 22:42:12",add
+Nick,Young,"SG,SF",Adam Silver,"Sun, 01 Nov 2015 22:42:12",drop
+Steven,Adams,C,Thailandia,"Sun, 01 Nov 2015 22:40:04",add
+Mario,Hezonja,SG,Thailandia,"Sun, 01 Nov 2015 22:40:04",drop
+Evan,Fournier,"SG,SF",Cool Cats,"Sun, 01 Nov 2015 01:18:42",add
+Jamal,Crawford,"SG,SF",Cool Cats,"Sun, 01 Nov 2015 01:18:42",drop
+Nick,Young,"SG,SF",Adam Silver,"Sat, 31 Oct 2015 21:52:57",add
+Kris,Humphries,"PF,C",Adam Silver,"Sat, 31 Oct 2015 21:52:57",drop
+Tyreke,Evans,"PG,SG",Valar Moredunkis,"Sat, 31 Oct 2015 05:02:09",add
+P.J.,Tucker,"SG,SF",Valar Moredunkis,"Sat, 31 Oct 2015 05:02:09",drop
+Marvin,Williams,"SF,PF",D-League All-Stars,"Fri, 30 Oct 2015 23:57:03",add
+John,Henson,"PF,C",D-League All-Stars,"Fri, 30 Oct 2015 23:57:03",drop
+Aaron,Gordon,"SF,PF",Thailandia,"Fri, 30 Oct 2015 03:38:37",add
+Joakim,Noah,"PF,C",Thailandia,"Fri, 30 Oct 2015 03:38:37",drop
+Kentavious,Caldwell-Pope,SG,D-League All-Stars,"Fri, 30 Oct 2015 03:38:37",add
+Trey,Burke,PG,D-League All-Stars,"Fri, 30 Oct 2015 03:38:37",drop
+Ish,Smith,PG,Trinh,"Wed, 28 Oct 2015 22:36:24",add
+Frank,Kaminsky,"PF,C",Trinh,"Wed, 28 Oct 2015 22:36:24",drop
+Marcus,Morris,"SF,PF",Valar Moredunkis,"Wed, 28 Oct 2015 00:28:30",add
+Aaron,Gordon,"SF,PF",Valar Moredunkis,"Wed, 28 Oct 2015 00:28:30",drop
+Mo,Williams,"PG,SG",Adam Silver,"Tue, 27 Oct 2015 20:52:11",add
+Kentavious,Caldwell-Pope,SG,Adam Silver,"Tue, 27 Oct 2015 20:52:11",drop
+Dennis,Schroder,PG,Thailandia,"Tue, 27 Oct 2015 20:43:44",add
+Taj,Gibson,"PF,C",Thailandia,"Tue, 27 Oct 2015 20:43:44",drop
+Alex,Len,"PF,C",Valar Moredunkis,"Tue, 27 Oct 2015 12:49:37",add
+Jared,Sullinger,"PF,C",Valar Moredunkis,"Tue, 27 Oct 2015 12:49:37",drop
+Taj,Gibson,"PF,C",Thailandia,"Mon, 26 Oct 2015 14:04:41",add
+Anthony,Morrow,"SG,SF",Thailandia,"Mon, 26 Oct 2015 14:04:41",drop
