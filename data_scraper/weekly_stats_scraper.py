@@ -20,8 +20,8 @@ else:
 	week = parser.parse_args().week
 
 oauth = OAuth1(None, None, from_file='yahoo_oauth1.json')
-url = 'http://fantasysports.yahooapis.com/fantasy/v2/league/364.l.' + str(lid) + '/scoreboard;week=' + week
-response = oauth.session.get(url)
+url = 'http://fantasysports.yahooapis.com/fantasy/v2/league/364.l.' + str(lid) + '/scoreboard'
+response = oauth.session.get(url, params={'week': '19'})
 
 data = xmltodict.parse(response.text)
 

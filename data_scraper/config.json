@@ -1,9 +1,10 @@
 {
 	"playoff_add_fee": 10,
-	"playoff_start_date": "2017-03-27",
+	"playoff_start_date": "2017-03-13",
 	"league_fee": 150,
 	"add_fee": 5,
 	"il_days_per_fee": 7,
 	"season_start_date": "2016-10-25",
+	"season_end_date": "2017-04-02",
 	"il_fee": 3
 }
